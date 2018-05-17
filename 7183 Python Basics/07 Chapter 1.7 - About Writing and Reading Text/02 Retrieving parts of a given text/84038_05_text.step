@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Sometimes you want to get a specific part of a string, since you know exactly what you are looking for.<div><br></div><div>For example, if your data is:</div><div><br></div><div>Type of Motor: 1 </div><div><br></div><div>You could retrieve just the last character of the text. Retrieving one character from a string works like retrieving one element from a list, with []:</div><div><br></div><div></div><pre><code><div>data = \"Type of Motor: 1\"</div><div>motor_type = data[15]        &lt;-- this now contains 1 (the 16th letter of the text, aka element 15)</div></code></pre><div></div><div><br></div><div>Note that spaces are characters, and are thus counted!</div><div><br></div><div>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310625",
+    "time": "2018-05-10T16:23:17.640359"
+}

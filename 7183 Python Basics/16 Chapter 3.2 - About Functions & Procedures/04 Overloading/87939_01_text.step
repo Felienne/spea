@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Now maybe you have noticed that some functions can be applied on different types.</p><p>Explore that in the next quiz.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321376",
+    "time": "2018-05-10T16:25:24.962516"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "We can also test if things are *not* equal to each other. In mathematics, we use ≠ for that. <div><br></div><div>For example: <span>4 </span><span>≠ 5 is True, while 5 </span><span>≠5 is False.</span><div><br></div></div><div>In Python ≠ is denoted as !=, like this:</div><div><br></div><div></div><pre><code><div>if 4 != 5:</div><div> print(\"Everything is fine\")<br></div><div>else:</div><div> print(\"An unexpected error has occurred\")</div></code></pre><div><br></div><div>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320331",
+    "time": "2018-05-10T16:23:44.240948"
+}

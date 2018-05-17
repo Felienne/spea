@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Remember to pay attention to what is in out outside of the body of the loop. Inside the body will be executed in each iteration of the loop. Outside it, only once, after the loop has ended.<div><br></div><div>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318491",
+    "time": "2018-05-10T16:23:59.612979"
+}

@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "<pre><code>beatles = ['John', 'Ringo', 'George', 'Paul']<br>beatles.append('Pete')</code></pre> <div><br></div><div>What is/are the parameter(s) of append?</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": false,
+                    "text": "string",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "string x list",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "list",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "integer",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321479",
+    "time": "2018-05-10T16:25:21.906816"
+}

@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "Think of indexing in the following code snippet as a function. What is its type?<div><br></div><div><pre><code>primes = [2, 3, 5, 7, 11, 13]<br>second_prime = primes[1]      #&lt;-- indexing is like a function<br>print(second_prime)<br></code></pre><br>Remember x is used to denote multiple arguments. The type of + is integer x integer -&gt; integer</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": false,
+                    "text": "integer -> integer",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "integer x integer -> integer",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "list x integer -> integer",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "list -> integer",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321384",
+    "time": "2018-05-10T16:25:17.856778"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "You might wonder why we want to store things in lists at all! Why not just use a bunch of variables, like this:<div><br></div><div></div><pre><code><div>number_1 = 4</div><div>number_2 = 8</div><div>...</div></code></pre><div></div><div><br></div><div>Well in addition to append, lists can be used to do some useful things!</div><div><br></div><div>For example, we can use the count method to count the number of items of with certain value. Like this:</div><div><br><pre><code>temperatures_this_week = [21, 20, 18, 19, 20, 20]<br>twenty_days = temperatures_this_week.count(20)</code></pre> </div><div><br>What do you think this will result in? Try it in the next step.</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300824",
+    "time": "2018-05-10T16:22:31.654426"
+}

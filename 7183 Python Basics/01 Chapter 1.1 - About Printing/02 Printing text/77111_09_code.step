@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<div>Similarly, single quotes can be used when you print a sentence with double quotes in it:</div><div><br></div><b>She said: \"Go Away!\"</b><div><b><br></b></div><div>﻿Use single quotes to print that sentence.<b><br></b></div>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "print('She said: Go Away!')"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "She said: \"Go Away!\""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"change \\\"__\\\" such that you get the right output\"\n::code\nprint('She said: Go Away!')\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "She said: \"Go Away!\""
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/292279/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "292279",
+    "time": "2018-05-10T16:21:49.990254"
+}

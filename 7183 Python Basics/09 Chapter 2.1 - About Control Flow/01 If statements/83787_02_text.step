@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Code within an if statement consists of two parts, a condition and a body. Globally, it looks like this:</p><p></p><pre><code>if condition:      #&lt;-- the first line ends with a colon (:)<br>    body_line_1    #&lt;-- every line in the body needs to be indented (i.e. start with spaces)\n    body_line_2 \n</code></pre> <p><br>Let's first study the structure. The first line starts with if, then a condition and then a colon(:). <br>This colon is important, without it, the code will not run.</p><p>Then follows the body. It may consist of one or more line, but all lines need to start with <i>indentation</i>: either a tab character, or a number of spaces. In the examples, we use 4 spaces.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310007",
+    "time": "2018-05-10T16:23:29.436838"
+}

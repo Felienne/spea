@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>When we feed Python a wrong type, most often we get a TypeError that is quite helpful. </p><p><img src=\"https://ucarecdn.com/61f94d9c-8617-4a7c-87b3-f0d4a5345735/\" title=\"Image: https://ucarecdn.com/61f94d9c-8617-4a7c-87b3-f0d4a5345735/\"></p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321343",
+    "time": "2018-05-10T16:25:12.635522"
+}

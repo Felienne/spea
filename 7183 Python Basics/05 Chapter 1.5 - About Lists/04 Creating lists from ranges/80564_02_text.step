@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Range is a function that creates a range of numbers, like this:</p><p></p><pre><code>zero_to_five = range(0,5)<br></code></pre> <p></p><p>This range represents the numbers 0 to 4 (not including 5!)<br><br>Note that a range is not a list!<br>Explore it in the next step.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "301004",
+    "time": "2018-05-10T16:22:39.700712"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>If we want to print only the positive numbers in a list, we can use an if, like you just saw in the previous step:</div><div><br></div><pre><code>saturation = [2, 5, -1, 41, 21, 9, -5]<br>for s in saturation:<br>    if s &gt; 0:<br>        print(s)</code></pre><div><br>But we could also use a continue statement. A continue skips an item of the list, under a certain condition. <br>Code equivalent to the code above is:</div><div><br></div><div></div><pre><code><div>saturation = [2, 5, -1, 41, 21, 9, -5]<br>for s in saturation:<br>    if s &lt;= 0:<br>       continue</div><div>    print(s)</div></code></pre><div><br></div><div>Continue can be a bit tricky, so practice with it in the next steps. I personally read continue as 'skip'.</div><br>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319177",
+    "time": "2018-05-10T16:24:06.359611"
+}

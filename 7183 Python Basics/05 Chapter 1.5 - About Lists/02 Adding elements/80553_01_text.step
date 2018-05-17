@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So far we have created lists at once, by assigning a whole list to a variable:<div><br></div><div><pre><code>one_direction = ['Niall', 'Liam', 'Harry', 'Louis']</code></pre> </div><div><br>But later in programming, often we will be constructing lists in a different way.<br>For example, reading temperatures from a sensor, or reading words from a text file. </div><div><br></div><div>In that scenario, you start with an empty list, and add elements step by step.</div><div><br></div><div>We will discover how to in the next steps.<br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300798",
+    "time": "2018-05-10T16:22:30.250484"
+}

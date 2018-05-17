@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>If a list starts at zero, we do not need the first argument of the range method, it may be omitted.</p><p>That means that this line of code:</p><pre><code>zero_to_five_list = list(range(0,5))</code></pre><div><br><div>is equal to this line:</div><div><br></div><div><pre><code>zero_to_five_list_shorter = list(range(5))</code></pre><br></div></div><div>Try it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "301021",
+    "time": "2018-05-10T16:22:43.134149"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In previous lessons, we have compared elements simply with greater than (&gt;) and smaller than (&lt;). <div><br></div><div>For example, we have seen:<br><div><br></div><div></div><pre><code><div>if 2 &lt; 3:                        #&lt;-- 2 &lt; 3 is true<br>     print(\"I will be printed\")  #&lt;-- all indented lines will be executed</div><div>     print(\"So will !\")          #&lt;-- all indented lines will be executed</div></code></pre><div></div><div><br></div><div><br></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319703",
+    "time": "2018-05-10T16:23:40.697399"
+}

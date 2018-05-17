@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "If you tried the code without str(), like this:<div><br></div><div><pre><code>string = 'And the winner is...:' + winner</code></pre><br><div>You saw this error message:<br></div><div><div><br></div><div><img alt=\"\" src=\"https://ucarecdn.com/bb98e230-99f5-4bda-8f1f-b2262a4705d5/\"></div><div><br></div><div>What happens here is that Python tries to add text <b>And the winner is...:</b> to a number: <b>65</b> in this case, stored in the variable winner.</div><div><br></div><div>Now Python is confused, because it does not know how to add numbers and text. It can add numbers, of course:</div><div><br></div><div><pre><code>sum = 1 + 3 &lt;-- sum now contains 4</code></pre><br>It can also add two strings (pieces of text)<br><br><pre><code>dylan = 'Robert' + ' Zimmerman' &lt;-- dylan now contains Robert Zimmerman</code></pre> </div><div>What we see here is that + can mean two things:</div><div><br></div><div><ol><li>adding numbers</li><li>concatenating strings</li></ol></div><div><br></div><div>When we print something like <b>And the winner is...: 65</b> we want to use the second meaning of +: glueing two strings together. We therefor need to change the number 65 in the text 65. To our human eye they look the same, but not to Python!</div><div><br></div><div>We use str() to convert a number to a string. This conversion is also called 'casting'.</div><div><br></div></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310384",
+    "time": "2018-05-10T16:23:11.722911"
+}

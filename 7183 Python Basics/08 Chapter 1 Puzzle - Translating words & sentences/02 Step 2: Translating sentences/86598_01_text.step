@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "We are working on a program that will translate<br><div><br></div><div><b>1 + 1 = 2</b></div><div><br></div><div>into:</div><div><br></div><div><b>one plus one = 2</b></div><div><br></div><div><b>Extra assignment: </b>Think about the steps that you would use to do this before the next puzzle.</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317536",
+    "time": "2018-05-10T16:23:25.144859"
+}

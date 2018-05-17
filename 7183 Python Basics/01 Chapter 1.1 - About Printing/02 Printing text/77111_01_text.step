@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous lesson we printed numbers, like this:<br>print(5) --&gt; 5<br>print(1,5) --&gt; 1 5 <div>print(1.5) --&gt; 1.5  <div><br></div><div>We can also print words. That works (a bit) differently. <div><span>For also use </span><span>print and the round brackets (), but we add single quotes:</span></div></div></div><div><span>print('Hello') --&gt; Hello</span></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "292250",
+    "time": "2018-05-10T16:21:45.463231"
+}

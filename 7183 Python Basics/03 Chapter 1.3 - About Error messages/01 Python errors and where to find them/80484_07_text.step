@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the previous step we got another error message this time:</p><p><img alt=\"\" src=\"https://ucarecdn.com/074ce6dd-7b48-466c-aff6-91479910e187/\" title=\"Image: https://ucarecdn.com/074ce6dd-7b48-466c-aff6-91479910e187/\"></p><p>Corresponding to this code:</p><p></p><pre><code>name = \"Jetson &lt;-- the error is here<br>print(name)</code></pre> <br>This error is another SyntaxError, or a spelling mistake, and again we get an error while 'scanning' which you can think or like reading.<br><p></p><p>This time Python encounters an EOL while reading, or an 'end of line'. So Python reaches the end of the line, but does not expect it (since it is expecting a double quote). </p><p>This time however, we get extra bonus help, in the form of the ^. It points to the place where Python thinks the error is. Sadly this is not always correct, but it is now. So when you get an error, read it carefully and examine where the ^ is placed, if it is there.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300792",
+    "time": "2018-05-10T16:22:12.965879"
+}

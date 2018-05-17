@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>The situation gets even a bit more tricky! If we are deciding to use a list or a tuple, we are not only looking at the datatype, but also at the intent.</p><p>For example, it we store longitude and latitude, which both are floating point numbers, many people would still use a tuple, since they represent different sort of numbers. A good rule of thumb is that when the elements together from one item: a date, a location, a unique code, you use a tuple. </p><p></p><pre><code>address = ('Mekelweg', '4', '2628CD', 'Delft')</code></pre><p></p><p>When the items are all similar and stored in a collection, you use a list. <br><br>For example for a list of measurements:</p><p></p><pre><code>temperature = [20, 19, 0, 5, 15]</code></pre><p></p><p>This is not always black and white, and as many other things, programmers sometimes debate when to use which.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321014",
+    "time": "2018-05-10T16:24:58.393080"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Yes, you have learned that 0, when used in a condition is False, and that all other numbers are True. Even numbers below 0 are True.</p><p>Now that is a bit weird! There are also programming languages that do not even allow to write something like<br><br></p><pre><code>if 5:<br>   print(\"5 is True\")</code></pre> <br><span>Why would Python be designed like this? Well, it allows us to make loop conditions shorter! And Python programmers love shorter commands.</span><p></p><p>For example when popping a list. We want to repeat that until the length of the list is 0, and we thus have seen all elements.</p><p>We have seen such code before, like this:</p><p></p><pre><code>while len(list) != 0:        #&lt;-- True while the list is not empty, and the length thus is longer than 0<br>    item = list.pop()<br>    print(item)</code></pre> <br><span>Now, we can rewrite it, into this:</span><p></p><p></p><pre><code>while len(list):             #&lt;-- True while the list is not empty, and the length thus is longer than 0<br>    item = list.pop()<br>    print(item)</code></pre> <br>That second code block does the same, since len(list) results in a number not zero when the list is not empty.<p></p><p>Weird, but useful! </p><p>Verify that these things are indeed the same in the next block.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320664",
+    "time": "2018-05-10T16:24:36.311649"
+}

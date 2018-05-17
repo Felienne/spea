@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>We can now create lists in two ways, directly assigning a number of elements:</p><p></p><pre><code>one_direction = ['Niall', 'Liam', 'Harry', 'Louis']</code></pre><p></p><p>Or, starting with an empty list and then appending elements:</p><p></p><pre><code>lucky_numbers = []<br>lucky_numbers.append(4)<br>lucky_numbers.append(8)</code></pre> <br>There is one more way that you will use a lot and that is by using the range function. <br>We will explore how in the next steps.<br><p></p><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300855",
+    "time": "2018-05-10T16:22:39.210020"
+}

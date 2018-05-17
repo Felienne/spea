@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "A function that does something other than simply returning a value, is said to have 'side effects'.<div><br></div><div>Realizing what effects a function has it paramount to understanding programs, so we will practice with it a lot after this lesson.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321477",
+    "time": "2018-05-10T16:25:20.798044"
+}

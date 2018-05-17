@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "When iteration over a list, or over a range of numbers, sometimes you will want to skip a certain number. For example, if we have a list of sensor values:<div><br></div><div><pre><code>saturation = [2, 5, -1, 41, 21, 9, -5]</code></pre><br></div><div><span>We know values below zero are measurement errors, and we should not print them.</span><br></div><div><br></div><div>We can skip them with a simple if, as we will see in the next step, but further in the lesson we will learn a more elaborate way too.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318494",
+    "time": "2018-05-10T16:24:05.355543"
+}

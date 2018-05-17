@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Remember we could also print strings with triple double quotes \"\"\", like this:<div><br></div><div>print(\"\"\"Hello\"\"\"\")</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298755",
+    "time": "2018-05-10T16:22:03.929314"
+}

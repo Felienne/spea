@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div><div>In the previous exercise we updated the value of an existing variable, like this:</div><div><br></div><div></div><pre><code><div>temperature = 10<br></div><div>increase = 7</div><div>temperature = temperature + increase</div></code></pre><div></div><br></div><div>This code has shown that﻿ v<b></b>ariables in programming are different from variables in mathematics, in that they can change their value!</div><div>A statement like x = x + 1 would not make sense in math, but it does in Python!</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298822",
+    "time": "2018-05-10T16:21:56.799366"
+}

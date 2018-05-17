@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In previous lessons we have seen 'for loops'. We use a for loop when we know, upfront, how many iterations are needed.<div><br></div><div>When looping over a list with for, we know how many steps we need to take: the number of items in the list.<br>For example, in this code:</div><div><br><pre><code>sequence = ['a', 'c', 'c', 'g']<br>for base in sequence:<br>    print(base)</code></pre> <br>The loop will be executed 4 times, thus, in this case, 4 things will be printed.</div><div><br></div><div>Sometimes, you do not know how many times a loop will be executed. In that case, you can use a different form of loop, the while loop. </div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319202",
+    "time": "2018-05-10T16:24:15.784509"
+}

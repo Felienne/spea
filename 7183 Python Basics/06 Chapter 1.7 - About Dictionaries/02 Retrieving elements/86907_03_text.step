@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>You have seen what dictionaries can do, that is: storing pairs of data:</p><p>1 --&gt; uno<br>2 --&gt; dos<br>3 --&gt; tres<br></p><p>These are called keys (1,2,3) and values ('uno', 'dos', 'tres'). We can access those separately.<br></p><p>Explore it in the next step.</p><p><br></p><br>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318419",
+    "time": "2018-05-10T16:23:00.319282"
+}

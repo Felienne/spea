@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous lessons we have used print to print numbers, like this:<div><br><div><pre><code>print(17)</code></pre><br></div><div>Python requires both round closing brackets (not so surprising of course) and when you remove one, you will get an error. <br>Try it in the next step.</div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300640",
+    "time": "2018-05-10T16:22:09.905817"
+}

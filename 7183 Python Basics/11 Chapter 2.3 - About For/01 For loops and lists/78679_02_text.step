@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "The first thing we need to know is how to work on multiple items in a list.<div><br>When we have items in a list, we can 'loop' over them using for. Like this:<br></div><div><div><br></div><div></div><pre><code><div>input = \"I love programming and Python is very nice\"<br></div>words = input.split()\nfor w in words:\n    print(w)</code></pre> <div><br>This code will print all words in the sentence.</div><div><br></div><div>Explore it in the next step.</div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317610",
+    "time": "2018-05-10T16:23:54.702339"
+}

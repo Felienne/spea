@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "The append statement you have just seen works a bit differently from what we have seen before. <div><br></div><div>It has a format with a dot that we have not seen before.<div><br><div></div><pre><code><div>lucky_numbers.append(4)<br></div></code></pre><div><br></div><div>What this means is we take a list (called lucky_numbers) and to that we append an element (the element 4 in this case)</div><div><br></div><div>Append here is called a <i>method</i>, <span>and lists support a number of different methods. If you are interested to explore what can be done with lists, the <a href=\"https://docs.python.org/2/tutorial/datastructures.html\">Python docs</a> are a good place to start. However we will encounter the most important methods in later lessons.</span></div></div></div><div><span><br></span></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300821",
+    "time": "2018-05-10T16:22:31.199721"
+}

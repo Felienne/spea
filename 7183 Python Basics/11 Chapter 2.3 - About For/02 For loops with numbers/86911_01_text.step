@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous step, we have done something for all elements in a list, like this:<div><br></div><div></div><pre><code><div>albums = ['Rumours', 'Tango in the night', 'English Rose']</div><div>for a in albums:</div><div>   print(\"I love \" + a)</div></code></pre><div><br></div><div>But often we also want to repeat something a fixed number of times, like this:</div><div><br></div><div></div><pre><code><div>for i in range(0, 3):</div><div>    print('Hooray')</div></code></pre><div></div><div><br></div><div>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318429",
+    "time": "2018-05-10T16:23:58.125952"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Before, we saw the pattern of doing something with list items on all elements of a list, to create a new list, like:</p><p>['I', 'love', 'programming'] -&gt; ['I', 'Love', 'Programming']<br>or<br>['2', '+', '3'] -&gt; ['two', 'plus', 'three']</p><p>Another common pattern is to reduce a list to one number, for example, the number of items in a list, of the average of the list, or the maximum. </p><p></p><div>We will explore these in the next steps.</div><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319185",
+    "time": "2018-05-10T16:24:11.199767"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "As you have seen ranges are not lists. But because they are similar we can convert a range into a list using the list() method:<div><br></div><div></div><pre><code><div>zero_to_five_range = range(0, 5)      #&lt;-- this is a range<br></div><div>zero_to_five_list = list(zero_to_five_range) #&lt;-- using list(...) we transform the range into a list<br>print(zero_to_five_list)              #&lt;-- the list is printed</div></code></pre><div><br>This code nicely prints the numbers 0 to 4. Try it in the next step.<br><br><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "301015",
+    "time": "2018-05-10T16:22:41.135266"
+}

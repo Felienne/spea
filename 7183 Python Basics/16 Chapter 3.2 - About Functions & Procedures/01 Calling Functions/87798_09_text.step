@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Here the errors, again, are pretty clear:<br><br>len() takes exactly one argument, and when more or less are given, Python warns us:<br><br><div><img src=\"https://ucarecdn.com/a3ba831a-2257-4a1b-a12a-29b4221df9f8/\" title=\"Image: https://ucarecdn.com/a3ba831a-2257-4a1b-a12a-29b4221df9f8/\"></div><div><br></div><img src=\"https://ucarecdn.com/387e4fed-3874-4fcd-8a29-50542db00e59/\" title=\"Image: https://ucarecdn.com/387e4fed-3874-4fcd-8a29-50542db00e59/\">",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321342",
+    "time": "2018-05-10T16:25:14.444107"
+}

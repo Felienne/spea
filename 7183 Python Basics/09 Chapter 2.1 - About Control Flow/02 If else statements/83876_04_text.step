@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Sometimes you will want to check a number of options and respond accordingly. For example, whether a value is 1, 2 or 3. For this you can use an elif to test different conditions. It looks like the if-else structurally:<div><br></div><div><pre><code>if code == 0:                 <br>    print(\"code is zero\")     &lt;-- this one will be executed when code is 0\nelif code == 1:               &lt;-- note that elif too is followed by a colon(:)!\n    print(\"code is one\")      &lt;-- this one will be executed when code is 1\nelse:                          \n    print(\"neither 0 nor 1\")  &lt;-- this one will be executed when code is anything else then 0 or 1</code></pre> <br></div><div>You can use as many elif's as you want within a statement. </div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310142",
+    "time": "2018-05-10T16:23:34.641586"
+}

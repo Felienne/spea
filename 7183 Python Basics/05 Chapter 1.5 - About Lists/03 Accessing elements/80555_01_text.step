@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Once we have created a list, like this:<div><br></div><div><pre><code>temperatures_this_week = [21, 20, 18, 19, 20, 20, 10]</code></pre></div><div><br></div><div>Sometimes we want to get a specific element from a list, for example the first element, 21 in this case.</div><div><br></div><div>Explore this in the next step, it might be a bit weird!</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300827",
+    "time": "2018-05-10T16:22:34.302925"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<span class=\"wysiwyg-color-red\">TODO: before this I should ask a few what is the same quetions!</span><div><br></div><div>These two blocks of code do the exact same thing:</div><div><div><br></div><pre><code>saturation = [2, 5, -1, 41, 21, 9, -5]<br>for s in saturation:<br>    if s &gt; 0:<br>        print(s)</code></pre><div><br>But we could also use a continue statement. A continue skips an item of the list, under a certain condition. <br>Code equivalent to the code above is:</div><div><br></div><div></div><pre><code><div>saturation = [2, 5, -1, 41, 21, 9, -5]<br>for s in saturation:<br>    if s &lt;= 0:<br>       continue</div><div>    print(s)</div></code></pre><div></div><br></div><div><span>Whether you use the one or the other is somewhat a matter of taste.</span><br></div><div><br>People that prefer the if, argue:</div><div><ul><li>if is used in many places, so it is easier to read.</li><li>the focus is on when to do something with the item in the list (print in the example) since the condition expresses when to do something (if an item is bigger than 0, in the example).</li></ul></div><div><br></div><div>People that like continue argue:</div><div><ul><li>the thing you do (print in the example) is nested less deep, making it easier to find. <br></li><li>the focus is on when to skip an item, making it easier to detect when something is wrong.</li></ul></div><div><br></div><div>As with natural language, where people debate whether or not to use the Oxford comma or the passive voice, in programming there are also opinions on what to use. We will see a lot more of these disagreements later in the lessons.</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319178",
+    "time": "2018-05-10T16:24:07.846891"
+}

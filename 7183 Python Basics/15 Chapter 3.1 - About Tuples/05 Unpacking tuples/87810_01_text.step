@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "We already know that we can access elements of a tuple, like we can access elements of lists. So it we have a tuple like this:<div><br></div><div><pre><code>address = ('Mekelweg', '4', '2628CD', 'Delft')</code></pre></div><div><br></div><div>We could, in theory, loop over the tuple, like this.</div><div><br></div><div><pre><code>for a in address:<br>    print(a)</code></pre> </div><div><br>Do not explore this code in the next step! As you have learned in the previous lesson, tuples conceptually represent one item, so looping over them does not really make sense.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321042",
+    "time": "2018-05-10T16:25:04.755286"
+}

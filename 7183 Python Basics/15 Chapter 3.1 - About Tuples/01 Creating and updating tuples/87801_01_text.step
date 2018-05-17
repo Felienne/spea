@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>So far, we have seen a number of different types in Python.</p><p></p><ul><li>Simple types for single items: int, float and string<br></li><li>Compound types that consist of multiple items: list and dictionary</li></ul><p>The elements of compound types each have their own datatypes. For example, we can have a list of integers or a dictionary of floating point keys and integer items.</p><p>In this lesson, you will see a new compound type: the tuple.</p><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320952",
+    "time": "2018-05-10T16:24:48.753647"
+}

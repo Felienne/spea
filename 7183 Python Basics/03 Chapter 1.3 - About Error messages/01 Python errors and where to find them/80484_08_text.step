@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In previous lessons we have printed text, like this:</p><p></p><pre><code>name = \"Gary\"<br>print(name)</code></pre> <br>But, sometimes you misspell a word, like this:<p></p><p></p><pre><code>name = \"Gary\"<br>prnt(name)</code></pre> <br>This too will lead to an error, but a new one!<br>Try it in the next step.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300788",
+    "time": "2018-05-10T16:22:13.457492"
+}

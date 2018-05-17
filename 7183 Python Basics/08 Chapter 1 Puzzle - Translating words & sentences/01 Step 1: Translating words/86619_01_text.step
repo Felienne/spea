@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Even though you only know a few Python commands, you can create a small program already!<div>In this exercise we will make a translation program with the commands we already know, step by step.</div><div><br></div><div>In the end, we will have a program that takes small calculations, like this:</div><div><br></div><div><b>1 + 1 = 2</b></div><div><br></div><div>and translates them into sentences in English, like this:</div><div><br></div><div><b>one plus one is two</b></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317597",
+    "time": "2018-05-10T16:23:22.069750"
+}

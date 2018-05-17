@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Another hidden function is indexing!</p><p></p><pre><code>primes = [2, 3, 5, 7, 11, 13]<br>second_prime = primes[1]      #&lt;-- indexing is like a function<br>print(second_prime)</code></pre><br>Think about that a bit more in the next quiz.<p></p><p><br></p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321367",
+    "time": "2018-05-10T16:26:22.832072"
+}

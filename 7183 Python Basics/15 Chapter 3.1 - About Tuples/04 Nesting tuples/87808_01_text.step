@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "A common use case for tuples is to nest tuples, i.e. to create tuples of tuples, to create more complex structures.<div>Explore this in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321032",
+    "time": "2018-05-10T16:25:00.297616"
+}

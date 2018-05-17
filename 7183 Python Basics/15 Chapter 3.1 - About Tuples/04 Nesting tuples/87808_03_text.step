@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "What is also common is to have lists of tuples, like this.<br><br>delft = (52.0116, 'N', 4.3571, 'E')<div>hawaii = (19.8968, 'N', 155.5828, 'W')</div><div>maui = (20.7984, 'N', 156.3319, 'W')</div><div><br></div><div>trip = [delft, hawaii, maui]</div><div><br></div><div>This might look a bit strange, since we have a list of different things now (strings and floats), but since these are inside the elements of the list, the list is homogenous after all!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321209",
+    "time": "2018-05-10T16:25:01.205521"
+}

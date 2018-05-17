@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In all exercises so far, all lines of Python that you typed, always were executed. </p><p></p><pre><code>temperature = 21                            #&lt;-- always happens<br>list_of_bands = ['U2', 'B52's', 'Boyz2Men'] #&lt;-- always happens<br>favorite_band = list_of_bands[2]            #&lt;-- always happens</code></pre><p></p><p><span>That sounds totally logical, but in this lesson, we will explore the if statement, which can cause lines to only be executed in certain situations.</span><br></p><p> </p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "309594",
+    "time": "2018-05-10T16:23:28.968733"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>So far, we have seen loops that run over a list or a range. <br><br>For example, we have seen:</p><p></p><pre><code>suits = ['clubs', 'diamonds', 'hearts', 'spades']<br>for suit in suits:<br> print(suit.capitalize())<br></code></pre><br>But we can also have loops that use two (or more!) lists. <br><br>They are called nested loops. Suppose we want to print all cards in the game of 'Klaverjassen'. These are the cards of value 7 and up.<br>We can create a second list for this:<div><div><p></p><p></p><pre><code>values = ['7', '8', '9', '10', 'Jack', 'Queen', 'King', 'Ace']</code></pre><br>We can now loops over the suits, and over the values, and print the combination of each. <br><p></p><pre><code>suits = ['clubs', 'diamonds', 'hearts', 'spades']<br>values = ['7', '8', '9', '10', 'Jack', 'Queen', 'King', 'Ace']<br><br>for suit in suits:<br> for value in values:<br>  print(value + ' of ' + suit.capitalize())</code></pre> <p></p><p>Explore the code in the next step.</p><p><b>Note:</b> If you know the term, what we have done is printing the <i>Cartesian product </i>of the two lists.</p><p><br></p></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321648",
+    "time": "2018-05-10T16:25:40.171443"
+}

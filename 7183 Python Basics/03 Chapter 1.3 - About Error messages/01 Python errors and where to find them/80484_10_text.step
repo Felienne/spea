@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>In the previous step, you have seen this error:</div><div><br></div><img alt=\"\" src=\"https://ucarecdn.com/476b61e1-d4ed-4482-b86c-57a841d302d4/\" title=\"Image: https://ucarecdn.com/476b61e1-d4ed-4482-b86c-57a841d302d4/\"><p><br></p><p>More confusing information this time. We can ignore the first line for now, and also the second line starting with Traceback.</p><p>, line 2, again indicates where the error is, which is correct in this case:</p><p></p><pre><code>name = \"Betty\"<br>prnt(name)  &lt;-- the error is here</code></pre><p></p><h2>NameError<br></h2><p>We then get a NameError, which is a bit different from a SyntaxError. For a SyntaxError, Python can decide straight away if it is wrong. For a name error, however, Python needs to do a bit more work. It needs to decide if there is a function called prnt and check in all existing functions.</p><p>There is no function called prnt, but there could be one! In fact in later lessons we will teach you how to create your own and then you can pick any name.<br><br>This is why we get a NameError, Python has tried all existing names but there is nothing called prnt. This is summarized in the explanation that 'name 'prnt' is not defined.<br><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300795",
+    "time": "2018-05-10T16:22:14.382261"
+}

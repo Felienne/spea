@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Okay, maybe that was tricky indeed! When reading a list from the end, we do start at (negative) 1 and not zero. <br>It makes some sense since -0 is equal to 0, but still. </p><p>This is really tricky, so do not worry! The fact that you start at zero can take some getting used to, it still confused me sometimes after decades of programming!</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300837",
+    "time": "2018-05-10T16:22:37.138096"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "True and False are Python commands, so they can also be used in code.<div><br></div><div>For example, we can write:</div><div><br></div><div></div><pre><code><div>if True:</div><div> result = \"True is True\"</div></code></pre><div><br></div><div>What will that print? Explore in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320513",
+    "time": "2018-05-10T16:23:48.707370"
+}

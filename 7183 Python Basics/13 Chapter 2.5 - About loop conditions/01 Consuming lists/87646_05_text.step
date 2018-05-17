@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p></p><p>With a pop() function, we can also loop. <br></p><p>We could use code like this:</p><p></p><pre><code>list = [2, 6, 8, 12, 19, 5]\nwhile ___:<br>    item = list.pop()\n    print(item)\n</code></pre> <p></p><p>When would the loop end? Think about it in the next step.</p><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320651",
+    "time": "2018-05-10T16:24:28.016985"
+}

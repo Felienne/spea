@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "You might wonder where this module business is going and what is has to do with matrices :)<br><br>Well, there is a very well known Python module designed for working with matrices, and we learn some commends from it, to create matrices in an easier way then with nested lists.<br><br>The module's name is NumPy, and if you are interested to find out more immediately, you can check out <a rel=\"nofollow\" href=\"http://www.numpy.org/\">NumPy's website</a>.<div><br></div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324762",
+    "time": "2018-05-10T16:25:49.797047"
+}

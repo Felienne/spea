@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Some functions are clearly functions, but they do not look the part. <br><br>An example is +. + certainly is a function, it takes two numbers and returns the sum of those numbers. <br>So its type is two integers -&gt; integer.<br>This is commonly written as integer x integer -&gt; integer<div><br></div><div>Based on what we have seen, the add function should be a name, followed by a round bracket, an comma's to separate the arguments:</div><div><br></div><div>+(5, 3) or<br>plus(5,3)</div><div><br></div><div>However, in some cases, like +, the creator of Python has decided to create handy shortcuts, so we can type more natural looking statements in the form of 4 + 7.</div><div><br></div><div>Note that not all programming languages follow this line, there are languages where an addition can only be written as +(4,5)! </div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321380",
+    "time": "2018-05-10T16:25:16.425943"
+}

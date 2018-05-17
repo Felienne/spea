@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "You now know about for and while loops. In general people prefer to use for loops where possible, and while loops only when a for loop is not possible, but sometimes while loops are also used as replacement for for loops.<div><br></div><div>In this weeks assignment you will think about for and while loops in a problem of your choosing!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319697",
+    "time": "2018-05-10T16:24:23.555447"
+}

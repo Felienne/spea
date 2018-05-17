@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Well that was weird, wasn't it? If you want to get the first element of a list, you need to get element zero (0):</p><p></p><pre><code><p>temperatures_this_week = [21, 20, 18, 19, 20, 20, 10]<br>temperature_monday = temperatures_this_week[__]<br>assert(temperature_monday == 21)<br></p>temperatures_this_week = [21, 20, 18, 19, 20, 20, 10]<br>temperature_monday = temperatures_this_week[0] &lt;-- this gets us 21<br></code></pre><div><br></div>This is a very old convention in programming, if you want to read more about the rationale, maybe check out <a href=\"https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html\" title=\"Link: https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html\">this post by Dutch computer scientist Dijkstra</a>. Not all programming languages follow it though, if you have used MatLab before, you know that is starts at 1, and so does an old language COBOL.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300838",
+    "time": "2018-05-10T16:22:35.274088"
+}

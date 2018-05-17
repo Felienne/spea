@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Indeed, all lists are True, except the empty list, which is False. <div><br></div><div>I guess by now you understand why... it is the same reason that 0 is False and other numbers are True. To shorten a loop over a list.</div><div><br></div><div>How can we shorten this?</div><div><br></div><div><pre><code>odd = [1, 3, 5, 7, 9, 11]<br>while odd != []:<br>    item = odd.pop()<br>    print(item)</code></pre> <br></div><div>Try it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320678",
+    "time": "2018-05-10T16:24:41.998076"
+}

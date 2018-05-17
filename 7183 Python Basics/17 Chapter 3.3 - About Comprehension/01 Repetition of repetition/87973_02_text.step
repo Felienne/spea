@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "The new Python command is called comprehension, and it's a new way to loop over lists. <div><br>The old version that you already know, and saw in the previous step is:<br><br></div><pre><code><div>input = \"I love programming and Python is nice\"</div><div>words = input.split()</div><div> output = []</div><div> for w in words:</div><div>     uppercase_w = w.capitalize()</div><div>     output.append(uppercase_w)</div></code></pre><div><br>If we expressed that in natural language, it would be something like:<br><br><i>\"for every w in the list of words, capitalize it and add it to a new list output\"</i><br><br>In a new form, it will be more like this:</div><div><br></div><div><i>\"output is a new list, created by capitalizing every word w in words\"</i><br><br>In Python it looks like this:</div><div><br></div><div><pre><code>output = [w.capitalize() for w in words]  </code></pre> <br></div><div><div>Note that there is no colon (:) after <code>for</code> in this case!</div><div><br></div><div><br></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321560",
+    "time": "2018-05-10T16:25:32.489193"
+}

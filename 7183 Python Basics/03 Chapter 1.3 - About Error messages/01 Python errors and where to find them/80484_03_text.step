@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the previous step you saw this error:</p><p><img alt=\"\" src=\"https://ucarecdn.com/ff8c7076-b77c-4fab-b288-dc304c6947df/\" title=\"Image: https://ucarecdn.com/ff8c7076-b77c-4fab-b288-dc304c6947df/\"><br>Corresponding to this code:</p><p></p><pre><code>print(17</code></pre><br><p></p><p>You could say that this is not helpful at all and that it leaves you confused.</p><p>What is SyntaxError? What is EOF, what is parsing? Do not despair, we will explain all of this now.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300662",
+    "time": "2018-05-10T16:22:10.963024"
+}

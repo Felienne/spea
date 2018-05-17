@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "These were just the basic things you can do with a NumPy matrix, in later lessons we will do more cool things like matrix multiplication, eigenvalues and more.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324799",
+    "time": "2018-05-10T16:25:52.758962"
+}

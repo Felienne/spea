@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "As you have seen ranges are different from lists because an assertEqual shows they are not equal. <br><br>Trying to print variables to see what they contain is a good strategy to use, also when you will be programming bigger programs later.<div><br></div><div>But, we can also verify this in code. As you move on in these lesson and will work more with different types, it is useful to know how to check this. We will explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "301016",
+    "time": "2018-05-10T16:22:40.675946"
+}

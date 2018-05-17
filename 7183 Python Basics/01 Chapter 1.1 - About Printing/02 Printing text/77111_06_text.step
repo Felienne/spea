@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Printing in Python can be done with print and round brackets () and single quotes '', like we have seen before:<div><pre><code>print('axolotl')</code></pre><br>But, it can also be done with double quotes \"\":</div><div><pre><code>print(\"axolotl\")<br></code></pre><b></b></div><div><b><br></b></div><div><b></b>These lines of Python mean exactly the same.</div><div><span><br></span></div><div><span>However, a double quote must be paired with another double one, and a single one with a single one!</span></div><div><b></b></div><div><b><br></b></div><div><b></b><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "292258",
+    "time": "2018-05-10T16:21:48.193489"
+}

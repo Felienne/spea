@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Suppose we want to check whether our retrieval from the dictionary has resulted in None, for example because we want to print the resulting word, but only when it is found.<div><br></div><div>We would do something like:<br><br></div><div><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>four_in_spanish = babel_fish.get(4) #&lt;-- contains None<br>if four_in_spanish == None:\n    print(four_in_spanish)\nelse:\n    print('The key was not found')\n</code></pre><br>However! In the case of None, we do not use == but is, like this:<br><div><br></div><div></div></div><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>four_in_spanish = babel_fish.get(4) #&lt;-- contains None<br>if four_in_spanish is None:  #&lt;-- when we are checking if something is None we use is and not ==!\n    print(four_in_spanish)\nelse:\n    print('The key was not found')</code></pre> ",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "325152",
+    "time": "2018-05-10T16:26:38.756055"
+}

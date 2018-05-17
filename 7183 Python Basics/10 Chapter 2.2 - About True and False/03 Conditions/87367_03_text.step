@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div><span>Maybe you have noticed that we wrote that expressions evaluate to True rather than true. </span><span>We say 'it is True' rather than 'it is true' since True and False are Python commands.</span></div><div><br></div><div>We can print the results of conditions directly, resulting in True or False.<br></div><div>Explore it in the next step.</div><i></i>﻿",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319705",
+    "time": "2018-05-10T16:23:47.667706"
+}

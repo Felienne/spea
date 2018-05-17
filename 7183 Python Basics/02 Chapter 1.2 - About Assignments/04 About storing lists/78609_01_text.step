@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Like we store numbers and text, we can also store <i>lists</i>. We will work with lists a lot in Python, and there will be more extensive chapters on working with lists. In this section we focus on storing lists.</p><p>Storing in principle works like storing numbers and strings, we use a name followed by an equal sign:</p><p></p><pre><code>three_primes = </code></pre><p></p><p>After that, something special happens, we need to use an square bracket to enclose the list in:</p><p></p><pre><code>three_primes = [2, 3, 5]</code></pre><p></p><p>The items are separated with comma's. A space is not needed, but advised!</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298764",
+    "time": "2018-05-10T16:22:06.273013"
+}

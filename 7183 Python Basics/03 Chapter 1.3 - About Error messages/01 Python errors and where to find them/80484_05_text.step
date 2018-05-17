@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous lessons we have used variables to store text too, like this:<div><br><div><pre><code>name = \"Harry\"\nprint(name)</code></pre><br></div><div>Python requires both double quotes too, and if we omit them, we will get an error.<br></div></div><div>Try it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300793",
+    "time": "2018-05-10T16:22:11.925691"
+}

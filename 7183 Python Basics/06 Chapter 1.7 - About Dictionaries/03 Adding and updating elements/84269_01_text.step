@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the previous lesson, we created a dictionary at once, with an initialization:</p><p></p><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}</code></pre><p></p><p>We can also add elements to an existing dictionary. Suppose we want to add 4, mapping to 'quatro'<br>Based on what we know from lists, you might think that it would be append. But it is not, it is update:</p><p></p><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>babel_fish.update({4: 'quatro'})<span> </span></code></pre><p></p><p>Explore it in the next step. Also try to use append and see what happens.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "311042",
+    "time": "2018-05-10T16:23:04.805397"
+}

@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "What types can abs() be applied on?<br><br>If you do not know, go to the next step and try it!",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": true,
+                    "text": "int",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "float",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "string",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "list",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321510",
+    "time": "2018-05-10T16:25:26.009556"
+}

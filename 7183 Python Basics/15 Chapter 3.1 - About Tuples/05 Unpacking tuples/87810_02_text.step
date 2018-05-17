@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>What does commonly happen is that we have a list of tuples, for example a list of people, like this:</p><p>a = ('Albert', 'Einstein')<br>b = ('Barbara', 'Liskov')<br>c = ('Charles', 'Babbage')<br>d = ('Dorothy', 'Vaughan')</p><p>cool_people = [a, b, c, d]</p><p>We can, of course, simply loop over this list, since it is a list of things. Do try that in the next step.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321192",
+    "time": "2018-05-10T16:25:05.210272"
+}

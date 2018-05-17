@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p>Try to apply abs() on different types.</p><p>To make the code pass, print the absolute value of int_variable (-3).<br></p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "int_variable = -3\nfloat_variable = -4.6\nlist_variable = [2, 4, 6, 8]\nstring_variable = 'word'\nprint(abs(__))"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "3"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = 0\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code\nint_variable = -3\nfloat_variable = -4.6\nlist_variable = [2, 4, 6, 8]\nstring_variable = 'word'\nprint(abs(__))\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "3"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/321516/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321516",
+    "time": "2018-05-10T16:25:26.477768"
+}

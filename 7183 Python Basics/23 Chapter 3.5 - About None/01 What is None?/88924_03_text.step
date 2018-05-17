@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So a function that does not return anything, still returns something, the built-in constant None.<div><br></div><div>None is different from both True and False, and 0. You can explore that in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324860",
+    "time": "2018-05-10T16:26:35.918111"
+}

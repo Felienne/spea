@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<div>Can you print all words in the sentence \"I love programming and Python is very nice\" but capitalized? </div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "input = \"I love programming and Python is nice\"\nwords = input.split()\nfor w in words:\n    __    \n    print(w)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "I\nLove\nProgramming\nPython\nIs\nVery\nNice"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code\ninput = \"I love programming and Python is nice\"\nwords = input.split()\nfor w in words:\n    __    \n    print(w)\n\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "I\nLove\nProgramming\nPython\nIs\nVery\nNice"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/317615/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317615",
+    "time": "2018-05-10T16:23:56.140297"
+}

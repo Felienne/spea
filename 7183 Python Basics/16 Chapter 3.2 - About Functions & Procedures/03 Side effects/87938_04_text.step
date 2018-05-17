@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Like functions that return something, functions that have side effects are sometimes written in alternative ways.</p><p>For example, list.append()</p><p></p><pre><code>beatles = ['John', 'Ringo', 'George', 'Paul']<br>beatles.append('Pete')</code></pre> <br>What is/are the parameter(s) of this function? Answer that in the next step.<p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321475",
+    "time": "2018-05-10T16:25:21.427962"
+}

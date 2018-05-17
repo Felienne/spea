@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In previous lessons we have seen lists as a means to store more items in one variable.</p><p>Python supports many more (we will not learn about all of them in this module!) <span class=\"wysiwyg-color-red\">TODO hier evt een link naar module 2 als die er is als teaser.</span></p><p>But there is one we will learn: a dictionary.</p><p>A dictionary is like a list, but, it stores <i>pairs</i> of things. Imagine it looks like this internally. </p><p>1 --&gt; uno<br>2 --&gt; dos<br>3 --&gt; tres</p><p>Every value on the left (called a key) corresponds to a value on the right (called a value). </p><p>You create a dictionary like this:</p><p></p><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}</code></pre><p><span><br>If the items are strings, they need to be enclosed in quotes (single or double), like 'uno', 'dos' and 'tres' are in the example above. This is similar to making a list of strings: ['uno', 'dos' and 'tres']</span><br></p><p></p><p>Both the left and the right side, the key and the value, can be of any type, so this is a proper dictionary too:</p><p></p><pre><code>babel_fish_reverse = {'uno': 1,  'dos': 2, 'tres' :3}</code></pre><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310636",
+    "time": "2018-05-10T16:22:55.316422"
+}

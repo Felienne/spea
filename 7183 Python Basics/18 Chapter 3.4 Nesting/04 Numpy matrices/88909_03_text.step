@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Let's use NumPy to create a matrix in a nicer way.</p><p>Before, we used a nested list to create the identity matrix:<br><br></p><pre><code>identity_basic = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]</code></pre><br><p></p><p>That works, as in it, it is a representation of the data we want. But it is not very easy, and it does not print very nice. </p><p>Once we have imported NumPy, like this:</p><p>import numpy </p><p>We can create a matrix directly from a string:<br><br></p><pre><code>identity = numpy.matrix('1 0 0; 0 1 0; 0 0 1')<br></code></pre><br>That is easier on the eyes, right? And, it prints a lot nicer. Explore that in the next step<p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324761",
+    "time": "2018-05-10T16:25:50.253801"
+}

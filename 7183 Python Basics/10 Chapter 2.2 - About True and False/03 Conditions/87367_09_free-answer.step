@@ -1,0 +1,21 @@
+{
+    "block": {
+        "name": "free-answer",
+        "text": "<h1>Extra assignment</h1><div><span>In addition to:</span><br></div><div><br></div><div><div></div><pre><code><div>if True:</div><div> result = \"True is True\"</div></code></pre><div></div></div><div><br></div><div><div><span>You can also use:</span><br></div><div><br></div><div></div><pre><code><div>while True:</div><div> do something</div></code></pre><div><br></div><div> You might wonder why someone would ever use this, because that code would run for ever and would never stop.</div><div><br></div><div>However it is commonly used. Searching GitHub for Python code using \"while True:\" returns over 600.000 results. Can you find some common patterns and use cases?</div><div><br></div><div>Do you think this is a good way of programming? Why or why not?</div><div><br></div><div><div><img alt=\"\" src=\"https://ucarecdn.com/fec60c83-acc3-4a57-b059-1811bb6cf158/\" title=\"Image: https://ucarecdn.com/fec60c83-acc3-4a57-b059-1811bb6cf158/\"></div></div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_attachments_enabled": true,
+            "is_html_enabled": true,
+            "manual_scoring": false
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320510",
+    "time": "2018-05-10T16:23:50.609222"
+}

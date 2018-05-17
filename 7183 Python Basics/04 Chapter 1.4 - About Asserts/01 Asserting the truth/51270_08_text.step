@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In a lot of subsequent puzzles, you will have to make sure an assertEqual 'passes'. That means we feed it two equal things and no error occurs when we run is.<br><div><br></div><div>Like we have done in previous puzzles, you will have to change the __  into the right value, but often, <span>the assertEquals will be combined with other statements, like assignments. That means the blank can be in different places that in the assert itself:</span></div><div><br><pre><code>expected_value = __  &lt;-- the blank is here<br>actual_value = 1 + 1<br>assertEqual(expected_value, actual_value) &lt;-- but this is the assertEquals that has to pass</code></pre> <br></div><div>Try it in the next step!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300784",
+    "time": "2018-05-10T16:22:21.750956"
+}

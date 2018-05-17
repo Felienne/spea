@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "We just split data with this code:<div><br></div><div><pre><code>line_1 = \"1/2/65 13:44:18 19.246 145.616 131.6 6\"<br>data = string.split()</code></pre> <br></div><div>What is the type of data now?</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": false,
+                    "text": "string",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "list",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "integer",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "float",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310631",
+    "time": "2018-05-10T16:23:16.614684"
+}

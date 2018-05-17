@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "While programming you will often want to 'print' something to the screen. In Python, you use the print() function for that. <br>It prints what ever is between the round brackets.<div><br></div><div>Like this:</div><div><pre><code>print(12)</code></pre><div><span><br>Will result in printing:</span><br></div></div><div><b>12</b><br>  <div><br></div><div>Try it in the next step.</div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "292248",
+    "time": "2018-05-10T16:21:41.652721"
+}

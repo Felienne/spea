@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Sometimes one puzzle will have multiple assertEquals, like this:<div><br></div><div></div><pre><code><div>assertEqual(1+4, __)<br></div><div>assertEqual(2+7, __)</div></code></pre><div><br></div><div>In this case, you will have to make sure both of the assertEqual's must be correct for the whole program to work. </div><div>If you solve just one, you will still get an error. </div><div><br></div><div>Try this in the next step!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300826",
+    "time": "2018-05-10T16:22:22.689783"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>You have just seen your first 'overflow' error.</p><p><img alt=\"\" src=\"https://ucarecdn.com/ba002c49-d986-4bde-8f96-119c6fec5ab2/\" title=\"Image: https://ucarecdn.com/ba002c49-d986-4bde-8f96-119c6fec5ab2/\"><br>The code stopped after a while, since the time limit on the exercise was passed and nothing happened.</p><p>This is a very common error, that you will probably make often in your programming life. I guess you have understood what went wrong.</p><p></p><pre><code>times = 0<br>while times &lt; 4:    #&lt;-- the loop will run while this is true<br>    print(\"Hello!\") #&lt;-- like in a for loop, all indented lines will be executed</code></pre> <br>In the program, times is never changed! So it stays 0 and the loop never ends. We need to change times in the loop.<br>That is why while loops often look like this:<p></p><p></p><pre><code>times = 0<br>while times &lt; 4:    #&lt;-- the loop will run while this is true<br>    print(\"Hello!\") #&lt;-- like in a for loop, all indented lines will be executed<br>    times = times + 1</code></pre> <p></p><p>Try this loop in the next step.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319388",
+    "time": "2018-05-10T16:24:17.682643"
+}

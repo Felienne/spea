@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Matrices are an important part of many fields of mathematics. With the basic building blocks we have learned to far, we can represent matrices. For example, if we want to create the 3x3 identity matrix, we could use three lists to represent the rows:<div><br></div><div>[1, 0, 0]<br>[0, 1, 0]<br>[0, 0, 1]<div><br></div></div><div>We can then store those three lists, in a list together:</div><div><br></div><div><pre><code>identity_3 = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]</code></pre> <br>This works, but it is not very elegant, with bigger matrices it quickly gets a bit messy.</div><div><br></div><div>You may use this syntax once in the next step, but then we will teach you a nicer way!<br><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321650",
+    "time": "2018-05-10T16:25:46.722367"
+}

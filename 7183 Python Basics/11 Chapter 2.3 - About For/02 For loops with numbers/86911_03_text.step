@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Remember that the 0 at the start of a range is optional. So you can also use:</p><p><span></span></p><pre><code><span>for i in range(3):<br></span><span>    print('Hooray')</span></code></pre><span></span><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318492",
+    "time": "2018-05-10T16:23:59.146809"
+}

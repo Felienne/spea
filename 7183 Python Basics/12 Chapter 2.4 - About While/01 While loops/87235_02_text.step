@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div><div><div><span>Another form of a loop is the while loop. It looks different from a for loop, since it starts with a condition:</span><br></div></div></div><div><pre><code>while times &lt; 4:        #&lt;-- the loop will run while this is true\n    print(\"Hello!\")     #&lt;-- like in a for loop, all indented lines will be executed</code></pre><br></div><div>This first line indicated under what condition the loop will continue. In this case, when the variable times is smaller than 4.</div><div>That means we need to create this variable before the loop starts:</div><div><br></div><div></div><pre><code><div>times = 0</div><div>while times &lt; 4:        #&lt;-- the loop will run while this is true </div><div>    print(\"Hello!\")     #&lt;-- like in a for loop, all indented lines will be executed</div></code></pre><div><br></div><div>Try running this code in the next step and see what happens....!</div><div><br></div><div><br></div><div><br><div><br><br></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319386",
+    "time": "2018-05-10T16:24:16.265124"
+}

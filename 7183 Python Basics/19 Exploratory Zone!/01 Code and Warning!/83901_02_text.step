@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>So far, we have presented you with guided steps. From now on, all lessons are exploratory. We are not sure we will keep all lessons like this, but this is the way they are now. </p><p>In all steps, you will have to fill blanks to learn about new statements, but they will look a bit differently. </p><p>We will guide you through one example and then you are on your own.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310117",
+    "time": "2018-05-10T16:25:55.237799"
+}

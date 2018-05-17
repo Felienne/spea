@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous step we have skipped some elements of a list, based on a condition:<div><br></div><div><pre><code>sequence = ['a', 'c', 'c', 'g', '-', 't' , 'g', '-', 't', 'a', 'g']<br>for base in sequence:<br>    if base == '-':<br>        continue</code></pre> </div><div>Sometimes however, we want to stop a loop entirely is something happens.</div><div><br></div><div>For example, analyzing data from a temperature monitoring system, printing the values. But when then temperature drops below 0, we want to stop reading values since we know a that point the experiment is failed.</div><div><br></div><div>For this, we can use a break, that stops a loop based on a condition.</div><div>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319180",
+    "time": "2018-05-10T16:24:09.254867"
+}

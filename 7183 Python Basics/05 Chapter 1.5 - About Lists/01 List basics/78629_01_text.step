@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Lists are an important part of programming. Often you want to store more than just one number or text. In the About assignment lesson we have already seen the basic syntax of a list. You choose a variable name, an equal sign and then rectangular brackets to separate the items.</p><p></p><pre><code>temperatures_this_week = [10, 11, 17, 18, 21, 22]</code></pre><p></p><p><span>If the items are strings, they need to be enclosed in quotes (single or double):</span><br></p><p></p><pre><code>beatles = ['John', 'Ringo', 'Paul', 'George']</code></pre><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300627",
+    "time": "2018-05-10T16:22:25.671249"
+}

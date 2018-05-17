@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "On the lessons before, we have looped over lists, leaving the lists \"in tact\".<div><br></div><div>After iterating over a list, the list itself is still the same.</div><div>Verify this in the next step. </div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320516",
+    "time": "2018-05-10T16:24:25.755055"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the previous step we got last names by looking inside the tuple, like this:</p><p><br></p>a = ('Albert', 'Einstein')<br>b = ('Barbara', 'Liskov')<br>c = ('Charles', 'Babbage')<br>d = ('Dorothy', 'Vaughan')<br>cool_people = [a, b, c, d]<br>for person in cool_people:<br>    print(person[1])<div><br></div><div>It works, but it is not very elegant, since it does not clearly communicate what element we are printing. A nice way it to unpack tuples with looping. Try it in the next step</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321202",
+    "time": "2018-05-10T16:25:07.887966"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In programming, a very important concept is the condition. </p><p>Secretly, you have seen a lot of conditions already.</p><p>For example, you saw:</p><div></div><pre><code><div>if 2 &lt; 3:                        #&lt;-- 2 &lt; 3 is true<br>     print(\"I will be printed\")  </div><div>     print(\"So will !\")          </div></code></pre><div></div><div><br></div><div>2 &lt; 3 here is a condition, which in this case is True. </div><div><br></div><div>Practise your skills in evaluating conditions in the next step.</div><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320346",
+    "time": "2018-05-10T16:23:46.724969"
+}

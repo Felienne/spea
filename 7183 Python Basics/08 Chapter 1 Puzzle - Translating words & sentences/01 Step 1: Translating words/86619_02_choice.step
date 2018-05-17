@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "What Python command do you think we need <b>most</b> to create the translation program?",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": false,
+                    "text": "list",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "dictionary",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "variable",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "print()",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317598",
+    "time": "2018-05-10T16:23:22.759909"
+}

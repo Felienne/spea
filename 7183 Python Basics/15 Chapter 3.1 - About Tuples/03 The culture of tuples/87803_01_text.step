@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Before we explained that when data is not mutable (i.e. it should not change) you use a tuple instead of a list. This is a technical decision, since you really cannot change a tuple, Python will not let you.<div><br></div><div>There is a second reason to use a tuple, is that the elements are not of the same type.</div><div><br></div><div>So here you'd use a list, since all elements are integers:</div><div><br></div><div><pre><code>temperature = [21, 19, 20, 23, 10, 11]</code></pre><br></div><div>While here you use a tuple, since the elements are strings and integers mixed:</div><div><br></div><div><pre><code>carl = ('Carl', 'McAdams', 31)</code></pre><br></div><div><span>This is not a technical reason, because you can create a list with heterogenous items, and a tuple with homogenous ones. <br><br>But in general in the Python community, this is not done. </span><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320980",
+    "time": "2018-05-10T16:24:57.486247"
+}

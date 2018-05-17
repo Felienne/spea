@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>If you tried append in the previous step, you saw this error message:</p><p><img src=\"https://ucarecdn.com/3a48ea8c-dd2a-4ded-bf4f-c310f3558310/\"></p><p><span>Contrary to some error messages we saw earlier, this is actually quite an informative message:</span><br></p><p><b>AttributeError: 'dict' object has no attribute 'append'</b><br></p><p>'dict' means dictionary, and Python here is telling us that something that is a dictionary does not have an attribute called append. Suppose you ever confuse a list and a dictionary (I still do after years of programming Python) this error message tells you that you have used the wrong operation.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "311827",
+    "time": "2018-05-10T16:23:05.721930"
+}

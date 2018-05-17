@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous step, you have seen this error message:<div><br></div><div><span class=\"image-wrapper\"><img src=\"https://ucarecdn.com/9463d188-dd07-4d91-afaa-6edbdf925372/\" title=\"Image: https://ucarecdn.com/9463d188-dd07-4d91-afaa-6edbdf925372/\"></span><br></div><div>Sadly, the error is not very informative. It does not tell us that there is no spoon, or that the spoon was not found. <br>Instead we get a KeyError, with the key that was not found: 'spoon'.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318423",
+    "time": "2018-05-10T16:23:02.321709"
+}

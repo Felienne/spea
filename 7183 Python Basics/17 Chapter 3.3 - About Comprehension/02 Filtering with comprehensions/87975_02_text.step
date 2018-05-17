@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "This code too can be made a lot shorter with a comprehension.<div><br></div><div>We had this code:</div><div><br></div><pre><code>temperatures = [21, 10, 19, 20, 0, 31, 12]<br>above_20 = []\nfor t in temperatures:<br>    if t &gt; 20:<br>        above_20.append(t)</code></pre> <br>In natural language, this is would be something like:<div><br><i>\"for every t in the list of temperatures, if it is above 20, add it to a new list output\"</i><br><br>In a new form, it will be more like this:</div><div><br></div><div><i>\"above_20 is a list with all t's for every t in the list of temperatures, if t is above 20\"</i><br><br></div><div>In Python it looks like this:</div><div><br></div><div><pre><code>above_20 = [t for t in temperatures if t &gt; 20]</code></pre> \nNote that here the for and also the if are not followed by a colon(:).\n</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321589",
+    "time": "2018-05-10T16:25:35.850703"
+}

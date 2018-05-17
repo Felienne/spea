@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "Select all collections you would store as a tuple.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": true,
+                    "text": "address: 'Mekelweg', '4', '2628CD' ",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "location: 19.246, 145.616",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "angle: 91, 87, 50, 78",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "height: 100, 80, 85, 93",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321015",
+    "time": "2018-05-10T16:24:58.877109"
+}

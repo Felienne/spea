@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Maybe you cannot imagine it yet, but sometimes you want to start at the end of a list, that is also possible by using negative numbers in between the rectangular brackets:<div><br></div><div><pre><code>beatles = ['John', 'Paul', 'George', 'Ringo']<br>assert(beatles[-1] == __)<div><div></div></div></code></pre><div><div><br></div><div>Try it in the next step!</div></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300836",
+    "time": "2018-05-10T16:22:36.199372"
+}

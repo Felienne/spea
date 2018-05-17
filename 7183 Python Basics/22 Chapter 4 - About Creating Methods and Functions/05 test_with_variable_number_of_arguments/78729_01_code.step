@@ -1,0 +1,47 @@
+{
+    "block": {
+        "name": "code",
+        "text": "",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "def print_all_these(*args):\n    to_print = \"\"\n    for a in args:\n        to_print += a + \" \"\n    return to_print\n\n\nclass AboutFunctions(unittest.TestCase):\n    def test_with_variable_number_of_arguments(self):\n        self.assertEqual(__, print_all_these('Huey'))\n        self.assertEqual(__, print_all_these('Huey','Dewey'))\n        self.assertEqual(__, print_all_these('Huey','Dewey','Louie'))"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "execution_time_limit": 5,
+            "is_memory_limit_scaled": true,
+            "test_archive": [],
+            "manual_memory_limits": [],
+            "manual_time_limits": [],
+            "code": "def generate():\n    return [(\"\",\"\")]\n\ndef solve(dataset):\n    return \"\"\n\ndef check(reply, clue):\n    return 1\n\n",
+            "execution_memory_limit": 256,
+            "is_time_limit_scaled": true,
+            "templates_data": "::python3\n::header\nimport unittest\n__ = \"-=> FILL ME IN! <=-\"\n\nimport sys\n\ndef decorate_print(func):\n    def wrapped(*args, **kwargs):\n        return func(*args, **kwargs, file=sys.stderr)\n    return wrapped\n\nprint = decorate_print(print)\n\n::code\ndef print_all_these(*args):\n    to_print = \"\"\n    for a in args:\n        to_print += a + \" \"\n    return to_print\n\n        \nclass AboutFunctions(unittest.TestCase):\n    def test_with_variable_number_of_arguments(self):\n        self.assertEqual(__, print_all_these('Huey'))\n        self.assertEqual(__, print_all_these('Huey','Dewey'))\n        self.assertEqual(__, print_all_these('Huey','Dewey','Louie'))\n\n::footer\nif __name__ == '__main__':\n    unittest.main()\n\n\n",
+            "samples_count": 1
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/296639/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296639",
+    "time": "2018-05-10T16:26:28.271749"
+}

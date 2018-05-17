@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "Select all collections you would store as a tuple.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": false,
+                    "text": "primes: 2, 3, 5, 7, 11, 13 ",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "vowels: a, e, u, o, i",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "address: 'Mekelweg', '4', '2628CD' ",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "date of birth: 'January', 31, 1956",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321016",
+    "time": "2018-05-10T16:24:57.942750"
+}

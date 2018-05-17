@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>The update operation not only adds elements, but also changes them.<br>Suppose our dictionary contains these items:</p><p></p><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}</code></pre><br>and we want to change the words to be Dutch, rather than Spanish. We could use:<br><p></p><p></p><pre><code>babel_fish.update({1: 'een'}) &lt;-- babel_fish[1] now contains een</code></pre> <br>Explore it in the next step<br><br><p></p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "311844",
+    "time": "2018-05-10T16:23:06.222811"
+}

@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p>The 3x3 identity matrices are not complete. Run the code to see how they print, and then complete them.</p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "identity_basic = [[1, 0, 0], [0, 1, 0]]\nprint(\"I am I3 in normal Python {0}\".format(identity_basic))\n\nimport numpy\nidentity_numpy = numpy.matrix('1 0 0; 0 1 0')\nprint(\"I am I3 in NumPy  {0}\".format(identity_numpy))"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "I am I3 in normal Python\n[[1, 0, 0], [0, 1, 0], [0, 0, 1]]\nI am I3 in NumPy\n[[1 0 0]\n [0 1 0]\n [0 0 1]]"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code\nidentity_basic = [[1, 0, 0], [0, 1, 0]]\nprint(\"I am I3 in normal Python {0}\".format(identity_basic))\n\nimport numpy\nidentity_numpy = numpy.matrix('1 0 0; 0 1 0')\nprint(\"I am I3 in NumPy  {0}\".format(identity_numpy))\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "I am I3 in normal Python\n[[1, 0, 0], [0, 1, 0], [0, 0, 1]]\nI am I3 in NumPy\n[[1 0 0]\n [0 1 0]\n [0 0 1]]"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/324730/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324730",
+    "time": "2018-05-10T16:25:50.797381"
+}

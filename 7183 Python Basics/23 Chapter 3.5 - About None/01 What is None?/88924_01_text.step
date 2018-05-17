@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So far we have seen two important built-in constants in Python, <code>True</code> and <code>False</code>.\n<div><br></div><div>These represent something that is True or False. There is one more of these we need to know about, and that is None.</div><div><br></div><div>None represents the situation where a variable has no value. I know that sounds very weird! None is a value but also it isn't. </div><div><br></div><div>Yup! Let's just look at an example first.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324822",
+    "time": "2018-05-10T16:26:34.964412"
+}

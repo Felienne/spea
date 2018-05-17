@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So, when you are modeling problem later, and you know something will not change, using a tuple is better.<div>That way, Python will remind you that changes cannot be made.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320972",
+    "time": "2018-05-10T16:24:53.066974"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Now that we know the structure of the if, let's explore it's meaning. <br>The condition is something than can be True or False. In the next lesson, you will learn more about conditions and how they work.<br>For now, all conditions will be of the form </p><p></p><pre><code>x &lt; 5:</code></pre><p></p><p>This means, like in math, x is smaller than 5.</p><p>When the condition is true, the body will be executed. If not, it will be skipped entirely. </p><p></p><pre><code>if 3 &lt; 2:                      #&lt;-- 3 &lt; 2 is False, since 3 is not smaller than 2.<br>    print(\"I am not printed\")  #&lt;-- all indented lines will be skipped\n    print(\"Neither am !\")      #&lt;-- all indented lines will be skipped</code></pre> <br><p></p><p></p><p></p><pre><code>if 2 &lt; 3:                      #&lt;-- 2 &lt; 3 is True, since 2 is indeed smaller than 3.<br>    print(\"I will be printed\") #&lt;-- all indented lines will be executed\n    print(\"So will !\")         #&lt;-- all indented lines will be executed</code></pre><p></p><p>Explore it in the next step.<br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310006",
+    "time": "2018-05-10T16:23:29.932078"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Accessing elements of a dictionary looks, syntactically, like accessing a list:<div><br></div><div><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>one_in_spanish = babel_fish[1]                  &lt;-- this contains the word 'uno' </code></pre><br></div><div>But the meaning is a bit different. While in a list getting [1] means getting the first element, in a dictionary it means finding the value that is connected to the value 1.<br></div><div><br></div><div>That means for a dictionary, we can also encounter something like:<br><br></div><div><pre><code>babel_fish_reverse = {'uno':1, 'dos':2, 'tres' :3}<br>one_as_number = babel_fish_reverse['uno']      &lt;-- this contains the number 1 </code></pre></div><div><br></div><div>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318414",
+    "time": "2018-05-10T16:22:59.325149"
+}

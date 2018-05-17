@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>This message is only for students participating in the MasterClass Next Generation Robotics!</div><div><br></div>Great, y<span>ou reached the end of the lessons, here is the code to submit: GUIDO-ABC</span><div><br></div><div>There is more content, so feel free to explore!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310111",
+    "time": "2018-05-10T16:25:54.758984"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p class=\"wysiwyg-text-align-left\"></p><p>Now that you have set your first steps in Pythonland, we can learn a new programming concept. The assert.</p><p>An assert is used to check whether something is true. It can be very helpful when writing programs, since we can use it to verify things of which we assume they are true. Because you will see that we sometimes assume things that are not true at all!</p><p>Let's think of something that is True. For example 1+1 is equal to 2. <br>There is a special command in Python to check if something is true or not. </p><p></p><pre><code>assertEqual(1+1, 2)</code></pre><p><br>You can think of this as saying: <i>\"Python, can you please check whether 1+1 is equal to 2?\"</i><br><br>Run the code in the next step.</p><p>What do you think? Is 1+1 equal to 2?</p><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": null,
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "205138",
+    "time": "2018-05-10T16:22:18.035923"
+}

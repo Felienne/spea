@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Sometimes you want to check more than 2 options. This can be done with a bigger statement, the if elif else statement. It looks like an if with more options:<div><br></div><div><pre><code>if code &lt; 0:                       <br>    print('Sub zero')          #&lt;-- this line is executed when code is smaller than 0<br>elif code &gt; 0:                 #&lt;-- note elif too needs to be followed by a colon (:)<br>    print('Warm!')             #&lt;-- this line is executed when code is bigger than 0<br>else:<br>    print('Code must be 0')    #&lt;-- if code is not bigger than or smaller than 0, it must be zero<br></code></pre> <br></div><div>Try elif in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310542",
+    "time": "2018-05-10T16:23:37.143366"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous lesson we have printed numbers and texts. In this lesson we are going to store numbers and texts!<div><br></div><div>To store things we use <i>variables.</i>﻿ A variable is a name we give to a value, like temperature, pressure, age or angle. To store a variable we use a name, an equals sign and the value, like this:</div><div><br></div><div><pre><code>temperature = 21</code></pre><br></div><div><br></div><div><br></div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296770",
+    "time": "2018-05-10T16:21:53.391024"
+}

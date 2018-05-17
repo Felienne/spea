@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "It often matters how many items are in a list, and for this Python has a special function, called len(). It is short for length. <div><br></div><div>Like print you use it with two round brackets. We store the length in a new variable called length:<div><br></div><div></div><pre><code><div>two_numbers = [5, 12]<br></div><div>length = len(two_numbers)</div></code></pre><div></div><div><br></div><div>After this code, the variable length contains the number 2. <br>Try it in the next step!</div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300630",
+    "time": "2018-05-10T16:22:27.060304"
+}

@@ -1,0 +1,47 @@
+{
+    "block": {
+        "name": "code",
+        "text": "",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "class AboutScope(unittest.TestCase):\n    def inside_non_local(self):\n        msg = \"Outside!\"\n\n        def inside():\n            nonlocal msg\n            msg = \"Inside!\"\n\n        inside()\n        return msg\n\n    def test_getting_something_nonlocally(self):\n        self.assertEqual(__, self.inside_non_local())"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "templates_data": "::python3\n::header\nimport unittest\n__ = \"-=> FILL ME IN! <=-\"\n______ = \"-=> FILL ME IN! <=-\"\n_______ = \"-=> FILL ME IN! <=-\"\n\nclass ___(Exception):\n    pass\n\n____ = \"-=> TRUE OR FALSE? <=-\"\n\n_____ = 0\n\ndef _________(parameter1):\n    return \"please choose the right method\"\n\n::code\nclass AboutScope(unittest.TestCase):\n    def inside_non_local(self):\n        msg = \"Outside!\"\n\n        def inside():\n            nonlocal msg\n            msg = \"Inside!\"\n\n        inside()\n        return msg\n\n    def test_getting_something_nonlocally(self):\n        self.assertEqual(__, self.inside_non_local())\n\n::footer\nif __name__ == '__main__':\n    unittest.main()\n\n",
+            "execution_time_limit": 5,
+            "is_memory_limit_scaled": true,
+            "test_archive": [],
+            "manual_memory_limits": [],
+            "code": "def generate():\n    return [(\"\",\"\")]\n\ndef solve(dataset):\n    return \"\"\n\ndef check(reply, clue):\n    return 1\n\n",
+            "manual_time_limits": [],
+            "execution_memory_limit": 256,
+            "is_time_limit_scaled": true,
+            "samples_count": 1
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/296758/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296758",
+    "time": "2018-05-10T16:29:31.559009"
+}

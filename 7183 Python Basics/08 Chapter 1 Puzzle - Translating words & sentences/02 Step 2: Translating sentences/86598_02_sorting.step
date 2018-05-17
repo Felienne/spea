@@ -1,0 +1,24 @@
+{
+    "block": {
+        "name": "sorting",
+        "text": "Here are the steps we will take in this program. Can you arrange them in the order we will perform them?<div><br>We will first create the dictionary:</div><div><br></div><div><b></b><pre><code>calculations_to_letters = {'1': 'one', '2', 'two', ...}</code></pre><br></div><div><br></div><div>After this, we will:</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "options": [
+                "Take the calculation 1 + 2 = 3 and split it into a list, number = calculation.split()",
+                "Retrieve the numbers or operations from the list, like: number_1 = numbers[0]",
+                "Translate the numbers and operations one by one by retrieving from the dictionary, like word_1 = calculations_to_letters[number_1]",
+                "Glue the words together to make a string, like output = word_1 + space + word_2 + ..."
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317540",
+    "time": "2018-05-10T16:23:25.644772"
+}

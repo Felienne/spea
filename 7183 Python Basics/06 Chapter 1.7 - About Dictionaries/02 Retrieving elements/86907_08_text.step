@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "There is a second way to obtain elements from a dictionary, which is the <code>get()</code>:<br><br><div><code><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>two_in_spanish = babel_fish.get(2, 'Key not found in the dictionary') #&lt;-- results in 'dos'\nfour_in_spanish = babel_fish.get(4, 'Key not found in the dictionary') #&lt;-- results in 'Key not found in the dictionary'<br></code></pre> </code><br><code>get()</code> takes two arguments, the first one is the key we are looking for, and the second one is what is returned when the value is not found. That looks a bit nicer than an error message. Try it in the next step.<br><br><br></div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "325150",
+    "time": "2018-05-10T16:23:02.811749"
+}

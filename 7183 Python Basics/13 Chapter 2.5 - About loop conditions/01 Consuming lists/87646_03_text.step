@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "There are other forms of looping too, that 'consume' the list. That means, the list is shortened step by step, and one element is peeled of.<div>An example of such a command is pop().<br></div><div><br></div><div>Beware, pop() removes the <b>last</b> element of the list!</div><div><br> We first show it without a loop:</div><div><br></div><div><div><pre><code>stack = [1, 2, 3, 4]<br>lucky_number = stack.pop()    #&lt;-- pop gets the last element (4) and also removes it<br>print(lucky_number)           #&lt;-- lucky_number now contains 4<br>print(stack)                  #&lt;-- stack now contains [1, 2, 3]<br></code></pre><br><div>Explore this in the next step.</div><div><br></div><br><br></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320648",
+    "time": "2018-05-10T16:24:26.683717"
+}

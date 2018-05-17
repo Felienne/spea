@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "The two options we have are:<div><br></div><div>while lijst != []:<br></div><div><br></div><div>and</div><div><br></div><div>while len(lijst) == 0:<br></div><div><br></div><div>Which one do you think is better, and why? </div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320650",
+    "time": "2018-05-10T16:24:30.428962"
+}

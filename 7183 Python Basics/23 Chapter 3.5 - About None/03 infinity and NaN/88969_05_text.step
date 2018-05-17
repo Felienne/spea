@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Now this of course leads to an interesting question....!<div><br></div><div>We now that in mathematics, infinity / infinity is undefined. What would it be in Python?</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "325169",
+    "time": "2018-05-10T16:26:42.577971"
+}

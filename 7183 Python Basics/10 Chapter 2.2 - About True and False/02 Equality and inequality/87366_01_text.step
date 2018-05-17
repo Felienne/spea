@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In addition to checking is this an smaller or larger, we can also test if two things are exactly equal. For example:</p><p></p><pre><code>if name == 'Felienne':          #&lt;-- if name is equal to 'Felienne'<br> print('You are the teacher')<br>else <br> print('You are a student')</code></pre> <p><br>Note the double equal signs (==) here. They matter! !<br><br>Explore it in the next step.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319704",
+    "time": "2018-05-10T16:23:43.269708"
+}

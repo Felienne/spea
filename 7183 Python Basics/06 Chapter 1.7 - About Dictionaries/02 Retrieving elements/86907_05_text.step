@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>In the previous step we have seen the names for the two parts in a dictionary: keys and values.</div><div><br></div><div>1 --&gt; uno<br>2 --&gt; dos<br>3 --&gt; tres<br></div><div><br></div>These come in handy when you try to retrieve an element (a key) that does not exist. <br><br>Try it in the next step.<br><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318418",
+    "time": "2018-05-10T16:23:01.376391"
+}

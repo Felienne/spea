@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p class=\"wysiwyg-text-align-left\">Let's look at that error again:</p><p class=\"wysiwyg-text-align-left\"><span class=\"image-wrapper\"><img alt=\"\" src=\"https://ucarecdn.com/1db4710b-69ba-498c-9a2d-4997db53d21f/\" title=\"Image: https://ucarecdn.com/1db4710b-69ba-498c-9a2d-4997db53d21f/\"></span></p><p></p><p>Corresponding to this code:</p><p></p><pre><code>print(17</code></pre><br><p></p><p>We can ignore the first line for now, and also the first part of the second line \"File jailed_code\", is not relevant now. </p><p>The rest of the error message has some valuable information though!</p><h2>,line 2</h2><p>Here, Python tells us where the error is located, in line 2. Sadly, in this case this is not entirely correct, the error is in line 1. In some cases we will see later it is correct. It is often correct but not always.<br></p><h2>SyntaxError:</h2><div><br></div><div>Here Python explain the type of the error <i>SyntaxError</i>. You can think of them as spelling mistakes. You made a mistake in spelling Python correct, and therefor Python is now confused about what you mean.<i></i></div><div><br></div><div>We will see a variety of these errors and in your programming career you will see a lot more, I am sure :-)</div><div><br></div><h2>while parsing (can also be while scanning)</h2><div>In this error you see 'while parsing' and in others you will see 'while scanning' Those are different steps in the process of running Python on your computer, but for now, just think of them as 'reading'. So the error we just got:</div><div><br></div><div>\", line 2<br>SyntaxError: unexpected EOF while parsing\"<br></div><div><br></div><div>Actually means:<br><br>In line 2 something weird happened.<br>You made a spelling mistake: unexpected EOF while reading.</div><div><br></div><h2>EOF</h2><p>So the only thing we still need to decipher now is EOF. It means 'end of file'. So the error means that Python reaches the end of the file while reading it, and did not expext to see the end of the file yet. This is because it was still looking for a closing round brackets.<br></p><p>Let's make another mistake and learn about a new error!</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300791",
+    "time": "2018-05-10T16:22:11.427151"
+}

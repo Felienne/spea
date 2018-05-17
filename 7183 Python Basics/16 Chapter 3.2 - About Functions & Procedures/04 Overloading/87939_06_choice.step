@@ -1,0 +1,46 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "What types can + be applied to?<div><br></div><div>If you do not know, go to the next step and try it!<br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "sample_size": 4,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": true,
+                    "text": "int + int ",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "string + string",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "float + float",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "list + list",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321515",
+    "time": "2018-05-10T16:25:27.398395"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div><span class=\"wysiwyg-color-black\">Now, some functions return something <i>and</i> have side effects!</span></div><div></div><div>An example of a function that is pop()</div><div><br></div><div><pre><code>stack = [1, 2, 3, 4]<br>lucky_number = stack.pop()    #&lt;-- pop gets the last element (4) and also removes it<br>print(lucky_number)           #&lt;-- lucky_number now contains 4<br>print(stack)                  #&lt;-- stack now contains [1, 2, 3]</code></pre> <br><div>Like append, and +, pop() is also a function that is written in a different way. What we actually have internally is pop(stack). Pop is a function <span>on a list, and thus is of type list -&gt; integer.<br><br>But the list also changes, because the final element is removed. That still counts as a side effect.</span></div><div><br><br><div><br></div></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321478",
+    "time": "2018-05-10T16:25:23.322879"
+}

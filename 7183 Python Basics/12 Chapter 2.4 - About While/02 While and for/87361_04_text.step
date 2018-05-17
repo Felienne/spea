@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p class=\"wysiwyg-text-align-left\"></p><p>Now of to loops that we cannot express with a for!</p><p>Imagine we are playing a very simple guessing game. We simple keep trying random values between 0 and 10 until we hit the answer (7) in this case.</p><p>How often will the program below run? Can we know up front?</p><p></p><pre><code><p>secret_value = 7                      #&lt;-- the secret value (not so secret in this case of course)<br>guess = 1                             #&lt;-- the first guess we try<br>while secret_value != guess:          #&lt;-- while we have not correctly guessed the answer<br>    guess = random.randint(1,10)      #&lt;-- try a new guess between 1 and 10<br>    print('That was one guess')\nprint(\"The secret number is... \", guess)\n</p></code></pre><br><p></p><div>If you have no clue, you ca try the code in the next step!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319698",
+    "time": "2018-05-10T16:24:22.542986"
+}

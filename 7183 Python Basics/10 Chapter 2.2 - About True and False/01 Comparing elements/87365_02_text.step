@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In addition to &lt; and &gt; there are also ≥ (greater than or equal to) and ≤ (less than or equal to), but they are written a bit different than in math class. <div><br></div><div>Explore them in them next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319709",
+    "time": "2018-05-10T16:23:41.195204"
+}

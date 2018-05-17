@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Indeed, while lists and strings can be added to itself, they cannot be added to each other. <br><br>The associated error messages are pretty informative:<div><br></div><div><span class=\"wysiwyg-color-red\">[Screen Shot 2018-05-04 at 1.48.44 PM]</span><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321514",
+    "time": "2018-05-10T16:25:29.774271"
+}

@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "Here is one example of the assignments you will see from now on.<div><br></div><div>There are a few new things. One new thing is the first two lines:</div><div><br></div><div><pre><code>class AboutAssignments(unittest.TestCase):<br>    def test_if_then_else_statement_true_expression(self):</code></pre> <br></div><div>You can safely ignore them, but sometimes the name of the test (on the second line) contains a hint on what to do.</div><div><br></div><div>What is also new is the form of the assert. Before we used a simple assert, like this:</div><div><br></div><div><pre><code>self.assertEqual(result == 12)</code></pre></div><div><br></div><div>We now have a special assert that checks if two things, separated by a comma, are equal:<br><br><pre><code>self.assertEqual(12, result)</code></pre><br></div><div>The basic assignment remains the same, fill in the blank (__) to make to the code work!</div><div><br></div><div>A good strategy is to run the code first, without changing something, and then reading the error message.</div><div><br></div><div><span>You will have notice that the error messages look different now:</span><br></div><div><div><img alt=\"\" src=\"https://ucarecdn.com/00552908-7f92-45ad-9039-b509e663b81b/\" title=\"Image: https://ucarecdn.com/00552908-7f92-45ad-9039-b509e663b81b/\"><br></div><div>The first lines may be ignored as before. We read from , line like we were used to.</div><div><br></div><div>It now says:</div><div><br></div><div>AssertionError: '-=&gt; FILL ME IN! &lt;=-' != 'small enough'<br></div><div><br></div><div>That means that the assert is comparing '-=&gt; FILL ME IN! &lt;=-' (which is the blank) with 'small enough' which are not the same. And it is your job to fix it!</div><br></div><div><br></div><div>Maybe you have noticed the error messages look different now too:<div><img alt=\"\" src=\"https://ucarecdn.com/00552908-7f92-45ad-9039-b509e663b81b/\"><br></div><div>The first lines may be ignored as before. We read from , line like we were used to.</div><div><br></div><div>It now says:</div><div><br></div><div>AssertionError: '-=&gt; FILL ME IN! &lt;=-' != 'small enough'<br></div><div><br></div><div>That means that the assert is comparing '-=&gt; FILL ME IN! &lt;=-' (which is the blank) with 'small enough' which are not the same. And it is your job to fix it!</div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "class AboutAssignments(unittest.TestCase):\n    def test_if_then_else_statement_true_expression(self):\n        threshold = 12\n        if 5 < threshold:\n            result = 'small enough'\n        else:\n            result = 'too big!'\n        self.assertEqual(__, result)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "\n::python3\n::header\nimport unittest\n__ = \"-=> FILL ME IN! <=-\"\n\n::code\nclass AboutAssignments(unittest.TestCase):\n    def test_if_then_else_statement_true_expression(self):\n        threshold = 12\n        if 5 < threshold:\n            result = 'small enough'\n        else:\n            result = 'too big!'\n        self.assertEqual(__, result)\n\n\n::footer\nif __name__ == '__main__':\n    unittest.main()\n\n\n\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/310119/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310119",
+    "time": "2018-05-10T16:25:55.709122"
+}

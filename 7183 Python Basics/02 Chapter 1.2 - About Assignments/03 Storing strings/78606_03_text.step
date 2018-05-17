@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Remember we could print strings with single quotes '<b>﻿</b> but also with double quotes \". These two lines of Python are equal to each other:</p><p></p><pre><code>print('Hank')</code></pre><p></p><p></p><pre><code>print(\"Hank\")</code></pre><p></p><p>Similarly, you can use both ' '(single quotes) and \" \"(double quotes) to store strings. As such, these two lines of Python are equal too:</p><p></p><pre><code>name = 'Harry'</code></pre><p></p><p></p><pre><code>name = \"Harry\"</code></pre><br><p></p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298754",
+    "time": "2018-05-10T16:22:02.964811"
+}

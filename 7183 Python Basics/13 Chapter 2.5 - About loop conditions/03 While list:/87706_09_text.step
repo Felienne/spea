@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "We have learned in this lesson and the previous one, that we can loop over lists with very short statements:<div><br></div><div><pre><code>while len(list): </code></pre><br></div><div><span>and</span><br></div><div><br></div><div><pre><code>while(list)</code></pre><br></div><div><span>Where possible, Python programmers prefer this over:</span><br></div><div><br></div><div><div><pre><code>while lijst != []:</code></pre></div><div><br></div><div>and</div><div><br></div><div><pre><code>while len(lijst) == 0:</code></pre><br></div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320679",
+    "time": "2018-05-10T16:24:42.954741"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Indexing is a function that takes a list (primes) and an integer (1) and returns an integer.</p><code><pre><code>primes = [2, 3, 5, 7, 11, 13]<br>second_prime = primes[1]      #&lt;-- indexing is like a function<br>print(second_prime)</code></pre><br></code>Even though the code is written in a different way, what happens internally is something like second_prime = index(primes, 1)",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321366",
+    "time": "2018-05-10T16:26:23.895044"
+}

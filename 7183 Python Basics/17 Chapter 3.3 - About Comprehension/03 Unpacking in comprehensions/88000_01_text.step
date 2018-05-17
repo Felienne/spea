@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Remember that, when looping over a list of tuples, we could unpack them by giving the tuple elements names? <br><br>It worked like this:</p><p><span></span></p><pre><code><p><span>a = ('Albert', 'Einstein')\n</span><span>b = ('Barbara', 'Liskov')\n</span><span>c = ('Charles', 'Babbage')\n</span><span>d = ('Dorothy', 'Vaughan')\n</span><span>cool_people = [a, b, c, d]\n</span><span>for first, last in cool_people:\n</span><span>    print(last)</span></p></code></pre><p><br>This unpacking can also be done in list comprehensions. Can you figure out how?</p><p>Try it in the next step.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321596",
+    "time": "2018-05-10T16:25:37.669316"
+}

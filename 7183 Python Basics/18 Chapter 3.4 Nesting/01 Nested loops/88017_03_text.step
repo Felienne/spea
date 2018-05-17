@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "The order in which we places the loops matters. This loop we just printed:<div><br><pre><code>suits = ['clubs', 'diamonds', 'hearts', 'spades']<br>values = ['7', '8', '9', '10', 'Jack', 'Queen', 'King', 'Ace']<br>for suit in suits:<br>    for value in values:<br>    print(value + ' of ' + suit.capitalize())</code></pre> </div><div><br>Takes 'clubs' as the first item, and then traverses all values. That is why the first lines it prints are:</div><div><br></div><div>7 of Clubs<br>8 of Clubs<br>9 of Clubs<br>10 of Clubs<br>Jack of Clubs<br></div><div>...</div><div><br></div><div>If we want to print<br>7 of Clubs</div><div>7 of Diamonds<br>7 of Hearts</div><div>7 of Spades</div><div>8 of Clubs </div><div>...<br><br></div><div>What should we change?<br>Explore it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "322892",
+    "time": "2018-05-10T16:25:41.276333"
+}

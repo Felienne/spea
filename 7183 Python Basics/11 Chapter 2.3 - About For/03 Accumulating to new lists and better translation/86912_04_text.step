@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "You should now be able to transform the long, duplicated code from the previous week into something nice and short. Use the building blocks you have learned in this lesson.<div><br></div><div>Try to improve this code in the next step, using a for, starting with an empty list and a ' '.join.</div><div><br></div><div><pre><code>calculations_to_letters = {'2':'two', '+': 'plus', '=':'equals', '4':'four'}<br>input = \"2 + 2 = 4\"\n\ncalculation_elements = input.split()<br>element_1 = calculation_elements[0]<br>word_1 = calculations_to_letters[element_1]<br><br>element_2 = calculation_elements[1]<br>word_2 = calculations_to_letters[element_2]<br><br>element_3 = calculation_elements[2]<br>word_3 = calculations_to_letters[element_3]<br><br>element_4 = calculation_elements[3]<br>word_4 = calculations_to_letters[element_4]<br><br>element_5 = calculation_elements[4]<br>word_5 = calculations_to_letters[element_5]<br><br>output = word_1 + ' ' + word_2 + ' ' + word_3 + ' ' + word_4 + ' ' + word_5<br><br>print(output)</code></pre> <br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319182",
+    "time": "2018-05-10T16:24:03.268363"
+}

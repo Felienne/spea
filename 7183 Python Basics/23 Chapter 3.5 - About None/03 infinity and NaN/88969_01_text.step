@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In addition to None, there are two more similar constructs you should know about, when working with large and small numbers.<div><br></div><div>While we human can count arbitrary far, computers cannot. There is a limit to the numbers they can store.</div><div><br></div><div>The highest number that Python can store is:<br><br></div><div><pre><code>max = 1.7976931348623157e+308</code></pre><br></div><div>If we try to make that number bigger, for example by multiplying it by itself, we get an interesting answer. Try it in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "325156",
+    "time": "2018-05-10T16:26:40.700847"
+}

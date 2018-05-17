@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>The nice thing about assertEqual is that it shows us the values of the two things that were passed. <br>When you passed the values <b>4</b> and <b>__</b> you saw this error message:</div><div><br></div><div><img alt=\"\" src=\"https://ucarecdn.com/dbd153cb-721a-454c-a6c8-adca042a12e8/\" title=\"Image: https://ucarecdn.com/dbd153cb-721a-454c-a6c8-adca042a12e8/\"><br></div><div>Here Python returns an AssertionError, but also shows the two values that are not the same: <b>4 is not Blank</b> </div><div>Blank denotes the two underscores __.<br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "307287",
+    "time": "2018-05-10T16:22:21.214094"
+}

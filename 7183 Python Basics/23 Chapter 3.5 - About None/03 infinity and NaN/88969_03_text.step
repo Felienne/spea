@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Indeed, Python returns inf, which represents infinity. We can calculate with infinity in Python and it obeys the normal rules of infinity.<div><br></div><div>For example: </div><div><ul><li>infinity/x = infinity, for any x</li><li>x/infinity = 0, for any x</li><li>infinity * x = infinity, for any x</li></ul><p>Explore it in the next step.</p><p><br></p></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "325170",
+    "time": "2018-05-10T16:26:41.636862"
+}

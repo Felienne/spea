@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p class=\"wysiwyg-text-align-left\">Translate all words in the sentence \"I love programming and Python is very nice\"  to uppercase and print the result, by starting with an empty list and appending translated elements to the resulting list.</p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "input = \"I love programming and Python is nice\"\noutput = [] #<-- we start with an empty list as result\nwords = input.split() \nfor w in words:\n   output.__(w.capitalize())\nprint(output)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "['I', 'Love', 'Programming', 'and', 'Python', 'Is', 'Nice']"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code\ninput = \"I love programming and Python is nice\"\noutput = [] #<-- we start with an empty list as result\nwords = input.split() \nfor w in words:\n   output.__(w.capitalize())\nprint(output)",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "['I', 'Love', 'Programming', 'and', 'Python', 'Is', 'Nice']"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/318490/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318490",
+    "time": "2018-05-10T16:24:02.286747"
+}

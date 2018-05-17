@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "There are some functions that sometimes return None. An example of this is getting an element from a dictionary with get().<div><br></div><div>In earlier lesson, we used get() with two arguments:</div><div><br></div><div><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>four_in_spanish = babel_fish.get(4, 'Key not found in the dictionary') #&lt;-- contains 'Key not found in the dictionary'</code></pre> <br>But, we can do it with one too:<br><div><div><br></div><div><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}<br>four_in_spanish = babel_fish.get(4) #&lt;-- contains None<br><br></code></pre><br></div><div>Then None is returned with the key is not found, so in de code above, four_in_spanish now contains None.<br></div><div><br></div><div>Try it in the next step.</div><div><br></div><div>Note: None is not the string <b>None</b>. So no quotes (') or double quotes (\") are needed around it.</div><div><br></div><div><br></div></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324863",
+    "time": "2018-05-10T16:26:37.801352"
+}

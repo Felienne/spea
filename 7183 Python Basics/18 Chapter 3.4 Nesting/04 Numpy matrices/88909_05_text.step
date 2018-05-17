@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "As you saw in the last step, NumPy matrices print nicely, you can easily see this is the identity matrix.<div><br></div><div><span class=\"image-wrapper\"><img src=\"https://ucarecdn.com/dbdb2916-5585-4f81-9d02-ee66f9270c13/\" title=\"Image: https://ucarecdn.com/dbdb2916-5585-4f81-9d02-ee66f9270c13/\" width=\"449px\" height=\"208px\"></span>But there is more. NumPy has a few handy build-in functions for matrix manipulation too.<br>Explore them in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324783",
+    "time": "2018-05-10T16:25:51.269208"
+}

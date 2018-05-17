@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "Transposing is easy too, and works exactly how you would expect. <div>The command is:<br><br></div><div><pre><code>numpy.transpose(matrix)</code></pre></div><div><div><br>Use the transpose command, to print this matrix: </div><div><br></div><pre><pre><code>[[1 4 7]\n [2 5 8]\n [3 6 9]]</code></pre><br></pre>This of course is the transposed version of the matrix we created in the previous step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "import numpy\nlist_1_to_9 = list(range(1,10))\nmatrix_1_to_9 = numpy.reshape(list_1_to_9, (3, 3))\ntransposed = ___(matrix_1_to_9)\nprint(transposed)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "[[1 4 7]\n [2 5 8]\n [3 6 9]]"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \ndef ___(x):\n    return(x)\n::code\nimport numpy\nlist_1_to_9 = list(range(1,10))\nmatrix_1_to_9 = numpy.reshape(list_1_to_9, (3, 3))\ntransposed = ___(matrix_1_to_9)\nprint(transposed)\n\n\n\n\n\n\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "[[1 4 7]\n [2 5 8]\n [3 6 9]]"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/324797/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324797",
+    "time": "2018-05-10T16:25:52.261520"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the last lesson we saw while loops for the first time. <br>All for loops can be written as while loops*. For example the loop we have jus seen in the last step</p><p></p><pre><code>times = 0<br>while times &lt; 4:    #&lt;-- the loop will run while this is true<br>    print(\"Hello!\") #&lt;-- like in a for loop, all indented lines will be executed<br>    times = times + 1</code></pre><p><br>Is equivalent to this for loop:</p><p></p><pre><code>for times in range(0,4):<br>    print(\"Hello!\") </code></pre> <p></p><p></p><br><p></p><p>* We will see later that the reverse is not true. As an extra exercise you can think of a while loop already that cannot be translated to a for loop.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319693",
+    "time": "2018-05-10T16:24:20.435062"
+}

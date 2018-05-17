@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Not all numbers are created equal, numbers in Python have different types.</p><p>Integers, like 5 or 2198 are called 'int'<br>Floating point numbers, like 3.1415 and 0.0.71 are called 'float'</p><p>We can ask Python what type a certain variable is, by using type() on the variable.</p><p>Like this:</p><p></p><pre><code>temperature = 12<br>print(type(temperature))</code></pre><br>results in <br><p></p><p><b>&lt;class 'int'&gt;</b><br></p><p><b></b>This looks very cryptic---and you might learn more about classes later in your programming career---but for now what matters it the part that says <b>int</b>. That indicates that the variable temperature is of type int, meaning a whole number. <br></p><p>Similarly</p><p></p><pre><code>angle = 10.7<br>print(type(angle))</code></pre><br>results in<p></p><p><b>&lt;class 'float'&gt;</b><br></p><p><br></p><br>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "312568",
+    "time": "2018-05-10T16:29:48.124513"
+}

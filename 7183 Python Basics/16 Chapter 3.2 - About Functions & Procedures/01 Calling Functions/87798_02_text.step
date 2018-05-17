@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>An example of a function we have seen is len().</p><p></p><pre><code>beatles = ['John', 'Ringo', 'George', 'Paul']<br>number_of_beatles = len(beatles)</code></pre> <br>Like f(n), len(beatles) takes an argument, and returns a value. In the case of len() the argument is list and the value is integer.<br><br>This is commonly denoted as list -&gt; int.<div><br></div><div><p></p></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320944",
+    "time": "2018-05-10T16:25:11.288856"
+}

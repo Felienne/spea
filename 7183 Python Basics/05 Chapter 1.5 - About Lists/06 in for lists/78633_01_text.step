@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "If you want to know whether something is in a list, we can use the 'in' keyword. Like this:<div> <pre><code>primes = [2, 3, 5, 7, 11]\n3 in primes &lt;-- this is True\n12 in primes &lt;-- this is False</code></pre> <div><br></div>Try it in the next step.<br><br></div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "301928",
+    "time": "2018-05-10T16:22:51.465925"
+}

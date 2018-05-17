@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "Execute the while loop and see what happens. ",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 1,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 3,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "times = 0\nwhile times < 4:    #<-- the loop will run while this is true\n    print(\"Hello\") #<-- like in a for loop, all indented lines will be executed"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "\n",
+                    "\n"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 1,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\nimport random\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code\ntimes = 0\nwhile times < 4:    #<-- the loop will run while this is true\n    print(\"Hello\") #<-- like in a for loop, all indented lines will be executed\n\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "\n",
+                    "\n"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/319387/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319387",
+    "time": "2018-05-10T16:24:16.738543"
+}

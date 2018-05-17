@@ -1,0 +1,25 @@
+{
+    "block": {
+        "name": "string",
+        "text": "Now, something more strange! What is the type of trip[0][0], for this code?<div><br></div><div><pre><code>delft = (52.0116, 'N', 4.3571, 'E')<br>hawaii = (19.8968, 'N', 155.5828, 'W')<br>maui = (20.7984, 'N', 156.3319, 'W')<br>trip = [delft, hawaii, maui]</code></pre> </div><div>Guess it first! Remember that guesses are always correct!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "pattern": "",
+            "use_re": false,
+            "match_substring": false,
+            "case_sensitive": false,
+            "code": "def check(reply):\n    return True\n\n# def solve():\n#     \"\"\"Return a correct reply. This function is *optional*.\n#\n#     It is used to test the correctness of the 'check' function.\n#\n#     :return: a string that is a correct reply to the problem\n#\n#     \"\"\"\n#     return \"Hello\"",
+            "is_text_disabled": false,
+            "is_file_disabled": true
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321212",
+    "time": "2018-05-10T16:25:02.226261"
+}

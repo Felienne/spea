@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Like in lists, we can use slices [:] to retrieve multiple elements.</p><p>Remember how it worked for lists:</p><p></p><pre><code>colors = ['Black', 'White', 'Grey', 'Green', 'Pink']<br>grayscale = colors[0:3]</code></pre> <p><br>It works similar for strings, but beware to count the letters and not the words!</p><p></p><pre><code>data = \"Angle of Motor: 187\"<br>angle = data[16:18]             &lt;-- this now contains 187</code></pre> <p></p><p>Explore this in the next step.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310626",
+    "time": "2018-05-10T16:23:19.438689"
+}

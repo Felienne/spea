@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p>Now that we know the steps, it is up to you to program them!</p><div>The skeleton of the program is there. Can you now do the rest?<br></div><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "calculations_to_letters = __ # <-- this is the dictionary\ninput = \"2 + 2 = 6\"\ncalculation_elements = input.split()\nnumber_1 = calculation_elements[__]\n#... here some lines need to be added!\nword_0 = calculations_to_letters[number_1]\n\n\n\noutput = word_0 + __\nassertEqual(output, \"two plus two equals four\")"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"blank\"  \ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n\n::code\ncalculations_to_letters = __ # <-- this is the dictionary\ninput = \"2 + 2 = 6\"\ncalculation_elements = input.split()\nnumber_1 = calculation_elements[__]\n#... here some lines need to be added!\nword_0 = calculations_to_letters[number_1]\n\n\n\noutput = word_0 + __\nassertEqual(output, \"two plus two equals four\")",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/317541/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317541",
+    "time": "2018-05-10T16:23:26.154441"
+}

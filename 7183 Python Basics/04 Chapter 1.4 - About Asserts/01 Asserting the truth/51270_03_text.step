@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Now let's try something more crazy and ask Python to verify that 1+1 = 5, which is course is wrong.<br><br>What would happen if we feed the assertEqual two things that are not equal?",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300667",
+    "time": "2018-05-10T16:22:19.047209"
+}

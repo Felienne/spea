@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Tuples, like lists, consist of multiple items. They are create with round brackets () rather than [] for lists or {} for dictionaries. This creates a tuples of the numbers 1, 2 and 3.</p><p></p><pre><code>count_of_three = (1, 2, 3)</code></pre><p></p><p>In many ways, tuples are like lists. <span>For example, element retrieval works the same. <br><br>Explore it in the next step.</span></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320961",
+    "time": "2018-05-10T16:24:49.248819"
+}

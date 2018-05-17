@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p>Print a list of all last names of the people in the list using a comprehension.</p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "a = ('Albert', 'Einstein')\nb = ('Barbara', 'Liskov')\nc = ('Charles', 'Babbage')\nd = ('Dorothy', 'Vaughan')\ncool_people = [a, b, c, d]\nlast_names_of_cool_people = [__ for first, last in __]\nprint(last_names_of_cool_people)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "['Einstein', 'Liskov', 'Babbage', 'Vaughan']"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code\na = ('Albert', 'Einstein')\nb = ('Barbara', 'Liskov')\nc = ('Charles', 'Babbage')\nd = ('Dorothy', 'Vaughan')\ncool_people = [a, b, c, d]\nlast_names_of_cool_people = [__ for first, last in __]\nprint(last_names_of_cool_people)\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "['Einstein', 'Liskov', 'Babbage', 'Vaughan']"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/321604/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321604",
+    "time": "2018-05-10T16:25:38.141975"
+}

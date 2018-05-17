@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Remember that we created a dictionary in the previous lessons? The code was something like:</p><p></p><pre><code>calculations_to_letters = {'2':'two', '+': 'plus', '=':'equals', '4':'four'}<br>input = \"2 + 2 = 4\"\n\ncalculation_elements = input.split()<br>element_1 = calculation_elements[0]<br>word_1 = calculations_to_letters[element_1]<br><br>element_2 = calculation_elements[1]<br>word_2 = calculations_to_letters[element_2]<br><br>element_3 = calculation_elements[2]<br>word_3 = calculations_to_letters[element_3]<br><br>element_4 = calculation_elements[3]<br>word_4 = calculations_to_letters[element_4]<br><br>element_5 = calculation_elements[4]<br>word_5 = calculations_to_letters[element_5]<br><br>output = word_1 + ' ' + word_2 + ' ' + word_3 + ' ' + word_4 + ' ' + word_5<br><br>print(output)</code></pre><br>This works well, but it is very long, and contains lots of repetition!<br><br>In this chapter, you will learn a new Python command that will reduce this program to about 5 lines and removes the similar lines.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "317611",
+    "time": "2018-05-10T16:23:54.238681"
+}

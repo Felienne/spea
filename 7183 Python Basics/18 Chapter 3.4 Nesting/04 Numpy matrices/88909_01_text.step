@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>There are many reasons that people like Python. One of the reasons is the easy to read syntax. Another reasons is that, in addition to the normal Python syntax elements, there are many Python 'modules'.</p><p><span>You can think of modules as small Python programs, which give you extra commands.</span><br></p><p>In fact we have already seen a module, when we used random numbers. For this, we needed to use:</p><p></p><pre><code>import random<br></code></pre> <br>When we import a module, we need to tell Python that we are using something from the module, by using the module name and then the function:<p></p><p></p><pre><code>dice_roll = random.randint(0,6)+1</code></pre><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324729",
+    "time": "2018-05-10T16:25:49.055700"
+}

@@ -1,0 +1,21 @@
+{
+    "block": {
+        "name": "free-answer",
+        "text": "<div><pre><code>while lijst != []:</code></pre></div><div><br></div><div>or</div><div><br></div><div><pre><code>while len(lijst) == 0:</code></pre></div><div><br></div><div>What do you prefer and why? There is no right answer here, experienced programmers also still debate these things.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_attachments_enabled": true,
+            "is_html_enabled": true,
+            "manual_scoring": false
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320652",
+    "time": "2018-05-10T16:24:30.885406"
+}

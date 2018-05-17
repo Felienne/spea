@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "As you have seen in the previous step, this dictionary:<br><br><div><pre><code>babel_fish = {1: 'uno', 2: 'dos', 3: 'tres'}</code></pre></div><div><br></div><div>has 3, not 6 items in it.<br><br>It is temping to think of a dictionary as a list of 6 things, but try to think of it as a set of 3 pairs, that go together.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318410",
+    "time": "2018-05-10T16:22:56.316891"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Sometimes you will want to print only part of a text. <div><br></div><div>For example when you are reading information from a file (which we will teach you about later!) and you read a file with <a rel=\"nofollow\" href=\"https://www.kaggle.com/usgs/earthquake-database\">earthquake data</a> which looks like this:</div><div><br></div><div><a href=\"https://ucarecdn.com/85a844bf-2299-4ba5-a726-5c4543c7a897/\">https://ucarecdn.com/85a844bf-2299-4ba5-a726-5c4543c7a897/</a>﻿<br></div><div><img alt=\"\"><br></div><div><br><div><div>Assume for now that we have stored the first line of data, separated by spaces, in a variable called line_1:<br></div><div><br></div><div>line_1 = \"1/2/65\n  13:44:18 19.246 145.616 131.6 6\"</div><div><br></div></div></div><div>We would rather have a list, so we can easily process the data. Explore splitting in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310620",
+    "time": "2018-05-10T16:23:15.665882"
+}

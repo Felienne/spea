@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the exercises so far we have printed either numbers or text, like this:</p><p></p><pre><code>print(4)<br>print('Can I get a little more?')</code></pre> <br>But sometimes we want to print text and numbers together, like this:<p></p><p><b>The sensor of the EVA suit reports a pressure of 12 bar.</b></p><p>﻿Combining text and numbers is a bit more involved as you will learn in this section.<b><br></b></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310166",
+    "time": "2018-05-10T16:23:10.763509"
+}

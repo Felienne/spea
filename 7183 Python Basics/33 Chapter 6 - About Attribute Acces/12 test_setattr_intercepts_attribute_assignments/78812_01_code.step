@@ -1,0 +1,47 @@
+{
+    "block": {
+        "name": "code",
+        "text": "",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "class AboutAssignments(unittest.TestCase):\n    class PossessiveSetter(object):\n        def __setattr__(self, attr_name, value):\n            new_attr_name =  attr_name\n\n            if attr_name == 'comic':\n                new_attr_name = \"my_\" + new_attr_name\n            if attr_name == 'pie':\n                new_attr_name = \"a_\" + new_attr_name\n\n            object.__setattr__(self, new_attr_name, value)\n\n    def test_setattr_intercepts_attribute_assignments(self):\n        fanboy = self.PossessiveSetter()\n\n        fanboy.pie = 'blueberry'\n\n        self.assertEqual(__, fanboy.a_pie)\n        self.assertEqual(__, fanboy.pie)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "templates_data": "::python3\n::header\nimport unittest\n__ = \"-=> FILL ME IN! <=-\"\n\n::code\nclass AboutAssignments(unittest.TestCase):\n    class PossessiveSetter(object):\n        def __setattr__(self, attr_name, value):\n            new_attr_name =  attr_name\n\n            if attr_name == 'comic':\n                new_attr_name = \"my_\" + new_attr_name\n            if attr_name == 'pie':\n                new_attr_name = \"a_\" + new_attr_name\n\n            object.__setattr__(self, new_attr_name, value)\n    \n    def test_setattr_intercepts_attribute_assignments(self):\n        fanboy = self.PossessiveSetter()\n\n        fanboy.pie = 'blueberry'\n\n        self.assertEqual(__, fanboy.a_pie)\n        self.assertEqual(__, fanboy.pie)\n\n::footer\nif __name__ == '__main__':\n    unittest.main()\n\n\n",
+            "execution_time_limit": 5,
+            "is_memory_limit_scaled": true,
+            "test_archive": [],
+            "manual_memory_limits": [],
+            "code": "def generate():\n    return [(\"\",\"\")]\n\ndef solve(dataset):\n    return \"\"\n\ndef check(reply, clue):\n    return 1\n\n",
+            "manual_time_limits": [],
+            "execution_memory_limit": 256,
+            "is_time_limit_scaled": true,
+            "samples_count": 1
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/296722/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296722",
+    "time": "2018-05-10T16:28:44.233624"
+}

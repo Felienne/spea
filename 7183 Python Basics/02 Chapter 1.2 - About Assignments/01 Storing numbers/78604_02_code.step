@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p>Store 27 in the variable temperature. Line 2 prints the value of temperature so if you fill it correctly it will print <b>137</b>.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "temperature = __\nprint(temperature)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "137"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"change \\\"__\\\" such that you get the right output\"\n\n::code\ntemperature = __\nprint(temperature)\n\n::footer\n\n\n\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "137"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/296771/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296771",
+    "time": "2018-05-10T16:21:53.889463"
+}

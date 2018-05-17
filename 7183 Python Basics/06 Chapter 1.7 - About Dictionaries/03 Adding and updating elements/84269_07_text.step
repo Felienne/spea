@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Like lists, dictionaries can be updated. For lists, we used insert:</p><div><br></div><pre><code><div></div>gandalf_says = ['you', 'will', 'pass']<br>gandalf_says[1] = 'shall'        &lt;-- gandalf_says now contains ['you', 'shall', 'pass']</code></pre><div><br></div><div>Dictionaries may be updated in a similar way. Explore it in the next assignment.</div><br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318425",
+    "time": "2018-05-10T16:23:08.000764"
+}

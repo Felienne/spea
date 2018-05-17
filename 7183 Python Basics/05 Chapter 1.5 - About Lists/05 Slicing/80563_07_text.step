@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous step you have seen that removing either the beginning or the end index leads to Python using the whole list. <div>This code:<br><br></div><div><pre><code>temperatures_this_week = [21, 20, 18, 19, 20, 20, 10]\nelement 5 is here ----------------------------^-------\n\ntemperatures_weekend = temperatures_this_week[5:]</code></pre> </div><div><br>results in the data for just the weekend days (the final two days) because it starts at element 5 (20 in this case as indicated by the ^) and then takes all values to the end of the list.</div><div><br></div><div>Similarly this:</div><div><br></div><div><span></span></div><pre><code>temperatures_this_week = [21, 20, 18, 19, 20, 20, 10]\n<div><span>element 5 is here ----------------------------^-------</span></div><div><span>temperatures_weekdays = temperatures_this_week[:5]</span><br></div></code></pre><div><br></div><div>results in the first 5 elements, from the beginning up to (not including) the fifth element.</div><div><br></div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300853",
+    "time": "2018-05-10T16:22:49.366245"
+}

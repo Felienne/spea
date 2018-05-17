@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So far, the True and False statements we have seen were somewhat predictable.<div><br></div><div>The results of this code are not really surprising:</div><div><br></div><div></div><pre><code><div>temperature = 20</div><div>if temperature &gt; 25:</div><div> print(\"warm!\")</div></code></pre><div><br></div><div>However, there are some weird cases of conditions that we will learn about in this lesson.</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320517",
+    "time": "2018-05-10T16:24:32.445600"
+}

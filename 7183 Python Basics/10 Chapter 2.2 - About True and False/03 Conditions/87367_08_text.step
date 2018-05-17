@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So far, I guess, this was pretty reasonable, and what you would expect. <br>The next few evaluations to True or False are going to be a bit weird, beware!",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320509",
+    "time": "2018-05-10T16:23:50.166954"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>In the previous step we have stored a list of numbers, but we can have lists of anything we want!</p><p>For example a list of strings, like a list of students in a class. Again we start with a name and an equal signL</p><p></p><pre><code>students = </code></pre><p></p><p>Then again we use square bracket to enclose the list in:</p><p></p><pre><code>students = [                               ]</code></pre><p></p><p>But because we are talking about text strings now, we need to enclose each item in quotes (single or double) too:</p><p></p><pre><code>students = ['Mary', 'Lenny', 'Perry']</code></pre><p></p><p><span>Again, items are separated with comma's and (optional) spaces.</span><br></p><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298796",
+    "time": "2018-05-10T16:22:07.244631"
+}

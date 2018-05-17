@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So 0 evaluated to False, and all other numbers to True.<div><br></div><div>What would happen if we try to evaluate a list...?</div><div><br></div><div>See for yourself in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320622",
+    "time": "2018-05-10T16:24:39.001458"
+}

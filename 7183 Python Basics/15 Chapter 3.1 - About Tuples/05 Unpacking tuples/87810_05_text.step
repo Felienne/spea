@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Indeed, if we loop over a list of tuples, each item is a tuple.</p><p>a = ('Albert', 'Einstein')<br>b = ('Barbara', 'Liskov')<br>c = ('Charles', 'Babbage')<br>d = ('Dorothy', 'Vaughan')<br>cool_people = [a, b, c, d]<br><br>for person in cool_people:<br>     print(person)<br></p><p>Support we want to print all last names. We could, of course, access elements in the tuple.</p><p>Explore that in the next step.</p><p><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321193",
+    "time": "2018-05-10T16:25:06.928344"
+}

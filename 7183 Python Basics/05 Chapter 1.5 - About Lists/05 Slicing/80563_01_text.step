@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "In the previous lesson we retrieved one element at a time from lists, like this:<div><br></div><div><pre><code>temperatures_this_week = [21, 20, 18, 19, 20, 20, 10]<br>temperature_monday = temperatures_this_week[0] &lt;-- this gets us 21</code></pre> <br></div><div>But sometimes we want to get a few elements out of a list, like the data on just the workdays from a week:</div><div><br></div><div><pre><code>begin = 0\nend = 5\ntemperatures_this_week = [21, 20, 18, 19, 20, 20, 10]<br>temperatures_weekdays = temperatures_this_week[begin:end] &lt;-- this gets us the list from begin (0) to end (5)</code></pre> </div><div><br>For this we use the : symbol, in between begin and end. We call those <i>indexes</i>.</div><div><br>Explore it in the next step.<br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300843",
+    "time": "2018-05-10T16:22:46.218509"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>Functions somehow are logical to us, since they also occur in mathematics. </p><p><span>However, functions in programming are a bit different, in that they can also return.... nothing, but still do something.</span></p><p><span>An example we have seen numerous times is:</span><br></p><p></p><pre><code>print('Hello')</code></pre><br>It looks like a function, and takes a parameter between round brackets, 'Hello', but it does not return anything. <p></p><p>Verify that print() does not return anything by assigning its result to a variable in the next step.</p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321374",
+    "time": "2018-05-10T16:25:19.808026"
+}

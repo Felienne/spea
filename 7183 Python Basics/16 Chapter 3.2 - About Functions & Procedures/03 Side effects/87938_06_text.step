@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>The side effect of print() is simply putting something on the screen. <br><span><br>The side effect of append() is an interesting one. It changes one of its own parameters.<br><br></span></div><div><code><pre><code>beatles = ['John', 'Ringo', 'George', 'Paul']    #&lt;-- beatles contains 4 elements<br>beatles.append('Pete')                           #&lt;-- beatles now contains 5 elements</code></pre></code></div><div><br></div>After the append(), beatles has one extra element. This is still a side effect, because it is not returning anything.<br><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321476",
+    "time": "2018-05-10T16:25:22.348250"
+}

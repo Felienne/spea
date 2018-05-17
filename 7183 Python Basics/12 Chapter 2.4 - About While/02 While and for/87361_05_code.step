@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "<p>Here is the code that guesses a random number until it finds 7. Run the code to find out what it does.</p><p>To pass the test, simply print the secret number once.<br><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "secret_value = 7 #<-- the secret value (not so secret in this case of course)\nguess = 1 #<-- the first guess we try\nwhile secret_value != guess: #<-- while we have not correctly guessed the answer\n    guess = random.randint(1,10) #<-- try a new guess between 1 and 10\n    print('That was one guess')\nprint(\"The secret number is... \", guess)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "The secret number is... 7"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\nimport random\n__ = \"blank\"\ndef assertEqual(x,y):\n    if x == y:\n        pass\n    else:\n        message = str(x) + ' is not ' + str(y)\n        raise AssertionError(message)   \n::code     \nsecret_value = 7 #<-- the secret value (not so secret in this case of course)\nguess = 1 #<-- the first guess we try\nwhile secret_value != guess: #<-- while we have not correctly guessed the answer\n    guess = random.randint(1,10) #<-- try a new guess between 1 and 10\n    print('That was one guess')\nprint(\"The secret number is... \", guess)\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "The secret number is... 7"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/319700/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "319700",
+    "time": "2018-05-10T16:24:23.016956"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "When we feed Python the wrong type of argument, often we will get an error.<div><br>Try this in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321327",
+    "time": "2018-05-10T16:25:11.739854"
+}

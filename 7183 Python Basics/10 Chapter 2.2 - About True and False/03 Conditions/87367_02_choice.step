@@ -1,0 +1,51 @@
+{
+    "block": {
+        "name": "choice",
+        "text": "Select all statements that are True. For example with multiple lines, check whether the final line evaluates to True.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "sample_size": 5,
+            "preserve_order": false,
+            "is_html_enabled": true,
+            "is_options_feedback": false,
+            "options": [
+                {
+                    "is_correct": true,
+                    "text": "<br> 3 > -2",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "<br> temperature = 0  <br>   temperature != 0  ",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "<br> x = 20 - 5 <br> x < 0",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": false,
+                    "text": "<br> temperature = 0  <br> temperature = temperature + 1 <br> temperature <= 0",
+                    "feedback": ""
+                },
+                {
+                    "is_correct": true,
+                    "text": "<br> code = \"5601\"  <br> code != \"2460\"",
+                    "feedback": ""
+                }
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "320399",
+    "time": "2018-05-10T16:23:47.205994"
+}

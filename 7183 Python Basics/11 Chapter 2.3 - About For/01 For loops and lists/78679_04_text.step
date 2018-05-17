@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Note that like in the if statements of the previous lesson, four spaces are placed before the things inside the loop:<div><br></div><div><pre><code>input = \"I love programming and Python is nice\"<br>words = input.split()<br>for w in words:<br>    print(w)   #&lt;-- starts with four spaces!</code></pre> </div><div>There can be multiple lines starting with spaces, all these lines will be executed for all elements of the loop. For example</div><div><br></div><div><div><br></div><div><pre><code>input = \"I love programming and Python is nice\"<br>words = input.split()<br>for w in words:\n    uppercase_w = w.capitalize() #&lt;-- starts with four spaces!<br>    print(uppercase_w)           #&lt;-- starts with four spaces!</code></pre></div><br></div><div>Now, all words are capitalized and then printed.</div><div><br></div><div>All lines that start with spaces together are called the 'body' of the loop.</div><div>Explore this in the next step.</div><div><br><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318430",
+    "time": "2018-05-10T16:23:55.625863"
+}

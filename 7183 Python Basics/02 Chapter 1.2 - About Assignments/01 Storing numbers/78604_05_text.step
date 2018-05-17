@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Once a number is stored, we can of course do more with it than just printing!<div><div>For example, we can use it in calculations:</div></div><div><br></div><div></div><pre><code><div>temperature = 10</div><div>increase = 2</div><div>temperature = temperature + increase</div></code></pre><div></div><div><br></div><div>After this snippet of code temperature will be equal to 12</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298823",
+    "time": "2018-05-10T16:21:55.845604"
+}

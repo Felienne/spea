@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "You can also create an empty list. That sounds weird but it can be useful, for example if you will be filling the list later. <div><br></div><div>An empty list is created with just two rectangular brackets, like this:</div><div><br></div><div><pre><code>nothing = []</code></pre></div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300631",
+    "time": "2018-05-10T16:22:28.108937"
+}

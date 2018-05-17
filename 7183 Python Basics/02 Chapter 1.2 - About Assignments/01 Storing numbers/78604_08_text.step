@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Sometimes, you want to assign two variables in one line of code. Not all programming languages can do this, but Python can. It works like this:<div><br></div><div><pre><code>power, angle = 100, 12</code></pre><br></div><div><span>This line of Python is exactly equal to </span><br></div><div><br></div><div></div><pre><code><div>power = 100<br></div><div>angle = 12</div></code></pre><div><br></div><div>However it is more compact, and that is why Python programmers like it.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298762",
+    "time": "2018-05-10T16:21:57.257403"
+}

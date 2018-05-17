@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>An if statement can be combined with an else, like this:</p><p></p><pre><code>if 3 &lt; 2:                      &lt;-- 3 &lt; 2 is false<br>    print(\"I am not printed\")  &lt;-- this line will be skipped\nelse:                          &lt;-- note that else too is followed by a colon(:)!\n    print(\"I will be\")         &lt;-- but this one will be executed</code></pre> <br><p></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310015",
+    "time": "2018-05-10T16:23:32.940966"
+}

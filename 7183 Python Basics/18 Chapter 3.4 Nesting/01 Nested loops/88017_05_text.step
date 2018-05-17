@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Indeed, the order in which the for loops are placed matters, Python wil execute the inner loop, for each element of the outer loop.<div><br></div><div>We could use nested loops to generate a list of integer points in Cartesian coordinates. Suppose we want to print all points between (-5,-5) and (5,5). </div><div><br></div><div><span class=\"wysiwyg-color-red\">TODO mooi plaatje van the cartesian plane hier</span></div><div><br></div><div>Can you write the code to do that?</div><div><br>Try it in the next step.</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324736",
+    "time": "2018-05-10T16:25:42.227217"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Most often when you will encounter a range that is converted to a list in this way:<div><br></div><pre><code>zero_to_five_list = list(range(0,5))</code></pre><div><br>This creates a range first, and then immediately converts in into a list.<br>Use this to create a list from 11 to 17 in the next step!</div><div><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "301019",
+    "time": "2018-05-10T16:22:42.171281"
+}

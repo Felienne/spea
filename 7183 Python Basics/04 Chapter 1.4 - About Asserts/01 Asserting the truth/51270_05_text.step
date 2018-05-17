@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<div>In the previous step we had:</div><div><br></div><div><pre><code>assertEqual(1+1, 5)</code></pre><br></div><div>This resulted in:</div><br><img alt=\"\" src=\"https://ucarecdn.com/c3efc3ac-78ad-4ec3-88be-61528e706a5f/\" title=\"Image: https://ucarecdn.com/c3efc3ac-78ad-4ec3-88be-61528e706a5f/\"><div><br></div><div>So when you feed assertEqual two things that are not equal to each other, you get a new type of error, an AssertionError.<br></div><div><br></div><div>It also tells you what two things are not equal: 2 is not 5.<br><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300670",
+    "time": "2018-05-10T16:22:20.053578"
+}

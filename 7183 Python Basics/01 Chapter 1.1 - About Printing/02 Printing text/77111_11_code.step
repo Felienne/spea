@@ -1,0 +1,53 @@
+{
+    "block": {
+        "name": "code",
+        "text": "You can print multiple lines using triple double (so using 3 times \") quotes \"\"\"<div>Even though these are technically six quotes, in Python they are usually called triple quotes.</div><div><br><div><div>For example, you would print these lines:</div><div><br></div><div><b>Hello!</b></div><div><b>Is it me</b></div><div><b>You are looking for?</b><br></div><div><br>Like this:</div><div><br></div><div><pre><code>print(\"\"\"Hello!\nIs it me\nYou are looking for?\"\"\")</code></pre><br></div><div>Now can you print this?<br></div><div><br></div><div><b>I can see it in your eyes</b><br><b>I can see it in your smile</b></div></div></div>",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "print(\"\"\"__\"\"\")"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    "I can see it in your eyes\nI can see it in your smile"
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "code": "# This is a sample Code Challenge\n# Learn more: https://stepik.org/lesson/9173\n# Ask your questions via support@stepik.org\n\ndef generate():\n    return []\n\ndef check(reply, clue):\n    return reply.strip() == clue.strip()\n\n# def solve(dataset):\n#     a, b = dataset.split()\n#     return str(int(a) + int(b))",
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "samples_count": 1,
+            "templates_data": "::python3\n::header\n__ = \"change \\\"__\\\" such that you get the right output\"\n::code\nprint(\"\"\"__\"\"\")\n\n\n\n\n\n",
+            "is_time_limit_scaled": true,
+            "is_memory_limit_scaled": true,
+            "manual_time_limits": [],
+            "manual_memory_limits": [],
+            "test_archive": [],
+            "test_cases": [
+                [
+                    "",
+                    "I can see it in your eyes\nI can see it in your smile"
+                ]
+            ]
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/292292/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "292292",
+    "time": "2018-05-10T16:21:50.958481"
+}

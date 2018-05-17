@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "A common pattern is working with loops is to start with an empty list, and add items to that list, based on a calculation in the loop.<div><br></div><div>For example, if we want to create a new sentence with capitalized words (rather than printing each item), we would do it like this:</div><div><br></div><div><pre><code>input = \"I love programming and Python is nice\"\noutput = '' #&lt;-- we start with an empty list as result<br><div><br></div>words = input.split() \nfor w in words:\n   output.append(w.capitalize())\n\nprint(output)</code></pre> </div><div><br>Explore this in the next step.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "318489",
+    "time": "2018-05-10T16:24:01.743155"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "So far, the list we have seen contained various different things. <br><br>For example, we have seen a list of numbers:<div><br></div><div><pre><code>primes = [2, 3, 5, 7, 11, 13]</code></pre><br>A list of strings:</div><div><br></div><div><pre><code>beatles = ['John', 'Ringo', 'George', 'Paul']</code></pre></div><div><br></div><div>And even a list of tuples:<br></div><div><p></p><pre><code><p>a = ('Albert', 'Einstein')<br>b = ('Barbara', 'Liskov')<br>c = ('Charles', 'Babbage')<br>d = ('Dorothy', 'Vaughan')</p><p>cool_people = [a, b, c, d]</p></code></pre><p></p><br>What we have not seen yet (but is possible...) is a list of lists!</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321649",
+    "time": "2018-05-10T16:25:44.105422"
+}

@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "Indeed, abs() can be applied on different types: float and int.<div><br></div><div><pre><code>abs(-3.1) </code></pre><br>is valid code, but also <br><br><pre><code>abs(-3)</code></pre><br><br><br><br><br><br><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321513",
+    "time": "2018-05-10T16:25:26.935384"
+}

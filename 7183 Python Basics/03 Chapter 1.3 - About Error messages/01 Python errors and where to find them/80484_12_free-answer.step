@@ -1,0 +1,21 @@
+{
+    "block": {
+        "name": "free-answer",
+        "text": "Did you run into new errors?",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {
+            "is_attachments_enabled": true,
+            "is_html_enabled": true,
+            "manual_scoring": false
+        },
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "300790",
+    "time": "2018-05-10T16:22:15.606922"
+}

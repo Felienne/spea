@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "We just stored a whole number in a variable. In Python and other programming languages this is called an <i>integer</i>.<div><br></div><div>We can also store non-integers. In Python we call those <i>floats</i>. The syntax to store them is the same:</div><div><br></div><div><pre><code>pi = 3.14159</code></pre><br></div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "298742",
+    "time": "2018-05-10T16:21:54.364962"
+}

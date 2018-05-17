@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>There is an easier way of printing, which is<span> format. It can mix text and numbers without casting, i.e. without using str() around the number.</span></p><p><span>Explore it in the next step.</span><br></p>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "310566",
+    "time": "2018-05-10T16:23:12.248622"
+}

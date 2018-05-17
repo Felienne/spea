@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "<p>We can store arbitrary things in lists, so also lists! For example, suppose we have these lists:</p><pre><code><pre><code><div><pre><code>beatles = ['John', 'Ringo', 'George', 'Paul']</code></pre></div> one_direction = ['Niall', 'Liam', 'Harry', 'Louis']\n</code></pre>  traveling_wilburys = ['Bob', 'George', 'Jeff', 'Roy', 'Tom']</code></pre> <br><p></p><div>We can combine them into a list of lists:<br><br></div><div><pre><code>bands_I_like = [beatles, one_direction, traveling_wilburys]</code></pre></div><div><br></div><div>We call this a <i>nested</i> list. <br>Explore how list access works in a nested list.</div>",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "324806",
+    "time": "2018-05-10T16:25:44.540997"
+}

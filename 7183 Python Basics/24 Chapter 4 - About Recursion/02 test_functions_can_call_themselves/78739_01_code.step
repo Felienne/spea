@@ -1,0 +1,47 @@
+{
+    "block": {
+        "name": "code",
+        "text": "",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "def factorial(a):\n    if a == 1:\n        return 1\n    else:\n        return a * factorial(a-1)\n\nclass AboutAssignments(unittest.TestCase):\n    def test_functions_can_call_themselves(self):\n        self.assertEqual(__, factorial(7))"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "execution_time_limit": 5,
+            "is_memory_limit_scaled": true,
+            "test_archive": [],
+            "manual_memory_limits": [],
+            "code": "def generate():\n    return [(\"\",\"\")]\n\ndef solve(dataset):\n    return \"\"\n\ndef check(reply, clue):\n    return 1\n\n",
+            "manual_time_limits": [],
+            "execution_memory_limit": 256,
+            "is_time_limit_scaled": true,
+            "templates_data": "::python3\n::header\nimport unittest\n__ = \"-=> FILL ME IN! <=-\"\n\n::code\ndef factorial(a):\n    if a == 1:\n        return 1\n    else:\n        return a * factorial(a-1)\n        \nclass AboutAssignments(unittest.TestCase):\n    def test_functions_can_call_themselves(self):\n        self.assertEqual(__, factorial(7))\n\n::footer\nif __name__ == '__main__':\n    unittest.main()\n\n\n",
+            "samples_count": 1
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/296649/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296649",
+    "time": "2018-05-10T16:26:47.391716"
+}

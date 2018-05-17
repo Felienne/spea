@@ -1,0 +1,17 @@
+{
+    "block": {
+        "name": "text",
+        "text": "+ too can be applied on float and int, meaning a regular mathematical plus, but also on strings and lists. <br>Then it means combining the lists, called concatenation. <br><br>Python determines what to do with the + based on the types of the parameters.<br><br>Have you tried adding two different types? int and float will work, but what about list and string? And list and int? <br><br>Explore that in the next step.",
+        "video": null,
+        "animation": null,
+        "options": {},
+        "subtitle_files": [],
+        "source": {},
+        "subtitles": {},
+        "tests_archive": null,
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "321511",
+    "time": "2018-05-10T16:25:28.311339"
+}

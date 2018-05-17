@@ -1,0 +1,47 @@
+{
+    "block": {
+        "name": "code",
+        "text": "",
+        "video": null,
+        "animation": null,
+        "options": {
+            "execution_time_limit": 5,
+            "execution_memory_limit": 256,
+            "limits": {
+                "python3": {
+                    "time": 15,
+                    "memory": 256
+                }
+            },
+            "code_templates": {
+                "python3": "class FancyCat:\n    def __init__(self, n, t):\n        self.name = n\n        self.title = t\n\n    def get_full_name(self):\n        return \"{0}. {1}\".format(__,self.name)\n\nclass AboutClasses(unittest.TestCase):\n\n    def test_different_objects_have_different_instance_variables(self):\n        magically_evil_cat = FancyCat(\"Norris\", \"Mrs\")\n        evil_cat = FancyCat(\"Bigglesworth\", \"Mr\")\n\n        self.assertEqual(__, magically_evil_cat.title)\n        self.assertEqual(__, evil_cat.name)"
+            },
+            "code_templates_options": {},
+            "samples": [
+                [
+                    "",
+                    ""
+                ]
+            ]
+        },
+        "subtitle_files": [],
+        "source": {
+            "execution_time_limit": 5,
+            "is_memory_limit_scaled": true,
+            "test_archive": [],
+            "manual_memory_limits": [],
+            "manual_time_limits": [],
+            "code": "def generate():\n    return [(\"\",\"\")]\n\ndef solve(dataset):\n    return \"\"\n\ndef check(reply, clue):\n    return 1\n",
+            "execution_memory_limit": 256,
+            "is_time_limit_scaled": true,
+            "templates_data": "::python3\n::header\nimport unittest\n__ = \"-=> FILL ME IN! <=-\"\n\n::code\nclass FancyCat:\n    def __init__(self, n, t):\n        self.name = n\n        self.title = t\n\n    def get_full_name(self):\n        return \"{0}. {1}\".format(__,self.name)\n    \nclass AboutClasses(unittest.TestCase):\n\n    def test_different_objects_have_different_instance_variables(self):\n        magically_evil_cat = FancyCat(\"Norris\", \"Mrs\")\n        evil_cat = FancyCat(\"Bigglesworth\", \"Mr\")\n\n        self.assertEqual(__, magically_evil_cat.title)\n        self.assertEqual(__, evil_cat.name)\n\n::footer\nif __name__ == '__main__':\n    unittest.main()\n",
+            "samples_count": 1
+        },
+        "subtitles": {},
+        "tests_archive": "/api/step-sources/296663/tests",
+        "feedback_correct": "",
+        "feedback_wrong": ""
+    },
+    "id": "296663",
+    "time": "2018-05-10T16:27:09.955258"
+}
